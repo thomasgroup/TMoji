@@ -1,0 +1,2433 @@
+{
+  "Emotions": {
+    "happy": [
+      {
+        "name": "Polarforscher",
+        "description": "Als Forscher eines Labors in der Arktis hat er herausgefunden.. ist dann aber Aufgrund der Kälte wieder reingegangen.",
+        "grade": "gold"
+      },
+      {
+        "name": "Wolfgang",
+        "description": "Was ist die Mehrzahl von Wolf? ",
+        "grade": "gold"
+      },
+      {
+        "name": "Gesichtsfelsen",
+        "description": "Hart, einfach nur hart. So hart wie Stein und so stein wie Hart! Vielleicht ist im Inneren ein weiches Herz und wenn ja, dann ist diese verdammt gut geschützt durch eine felsige Hülle aus hartem Stein.",
+        "grade": "gold"
+      },
+      {
+        "name": "Frohlockator",
+        "description": "Ein fröhlicher Entdecker mit einer Vorliebe für Abenteuer.",
+        "grade": "green"
+      },
+      {
+        "name": "Glücksmelodie",
+        "description": "Eine harmonische Seele, die Freude und Glück verbreitet.",
+        "grade": "green"
+      },
+      {
+        "name": "Jubelgeist",
+        "description": "Ein begeisterter Geist voller Freude und Begeisterung.",
+        "grade": "green"
+      },
+      {
+        "name": "Fröhlichfex",
+        "description": "Ein verspielter und fröhlicher Kobold mit einem ansteckenden Lachen.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückstronaut",
+        "description": "Ein Abenteurer, der das Glück im Universum sucht.",
+        "grade": "green"
+      },
+      {
+        "name": "Lachwunder",
+        "description": "Eine Person, die mit ihrem Lachen wahre Wunder bewirkt.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohgemut",
+        "description": "Ein optimistischer und fröhlicher Geselle, der das Leben in vollen Zügen genießt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückseliphant",
+        "description": "Ein glücklicher Elefant, der sanftmütige Freude verbreitet.",
+        "grade": "green"
+      },
+      {
+        "name": "Freudenspinner",
+        "description": "Ein Wirbelwind der Freude, der umherwirbelt und alle mitreißt.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockenix",
+        "description": "Ein kleiner Vogel, der mit seinem fröhlichen Gesang die Herzen erfreut.",
+        "grade": "green"
+      },
+      {
+        "name": "Glücksregenbogen",
+        "description": "Ein farbenfroher Regenbogen, der das Glück in allen Farben widerspiegelt.",
+        "grade": "green"
+      },
+      {
+        "name": "Jubelschmetterling",
+        "description": "Ein zierlicher Schmetterling, der mit seinem leichten Flügelschlag Freude verbreitet.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohmunter",
+        "description": "Ein munteres Gemüt, das die Welt mit seiner Fröhlichkeit erhellt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückstaucher",
+        "description": "Ein Taucher, der in den Tiefen des Glücks nach Schätzen sucht.",
+        "grade": "green"
+      },
+      {
+        "name": "Freudensturm",
+        "description": "Ein stürmischer Wirbelwind voller Freude und Energie.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockvogel",
+        "description": "Ein Vogel, der mit seinem fröhlichen Gesang die Herzen zum Frohlocken bringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückspurzel",
+        "description": "Ein kleiner Wirbelwind, der vor Glück und Freude herumwirbelt.",
+        "grade": "green"
+      },
+      {
+        "name": "Jubelschwirbler",
+        "description": "Ein Vögelchen, das mit seinem fröhlichen Gezwitscher jubeln lässt.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohgemälde",
+        "description": "Ein lebhaftes Gemälde, das pure Freude und Glück ausstrahlt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückskobold",
+        "description": "Ein schelmischer Kobold, der das Glück auf seiner Seite hat.",
+        "grade": "green"
+      },
+      {
+        "name": "Lachmeister",
+        "description": "Ein Meister des Lachens, der alle mit seiner Heiterkeit ansteckt.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockblume",
+        "description": "Eine zauberhafte Blume, die beim Betrachten pure Freude erweckt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückswirbel",
+        "description": "Ein Wirbelwind des Glücks, der alles mit sich reißt.",
+        "grade": "green"
+      },
+      {
+        "name": "Jubelhase",
+        "description": "Ein flinker Hase, der vor Freude über die Wiesen hüpft.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohgeselle",
+        "description": "Ein fröhlicher Geselle, der die Welt mit seiner guten Laune erhellt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückstänzer",
+        "description": "Ein Tänzer, der mit seinen fröhlichen Bewegungen das Glück zum Ausdruck bringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Lachmagnet",
+        "description": "Ein Magnet für Lachen, der alle mit seiner ansteckenden Fröhlichkeit anzieht.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockwelle",
+        "description": "Eine Welle der Freude, die alles mit sich trägt und jeden erfrischt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückselmin",
+        "description": "Eine selige Seele, die das Glück in jedem Moment spürt.",
+        "grade": "green"
+      },
+      {
+        "name": "Jubelblitz",
+        "description": "Ein blitzschneller Wirbelwind der Freude, der alle mitreißt.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockgnom",
+        "description": "Ein kleiner Gnom, der mit seinem fröhlichen Wesen alle zum Frohlocken bringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückstaumel",
+        "description": "Ein berauschendes Gefühl von Glück und Freude, das alles umhüllt.",
+        "grade": "green"
+      },
+      {
+        "name": "Lachvisionär",
+        "description": "Ein Visionär des Lachens, der die Welt mit seiner fröhlichen Perspektive bereichert.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockdelfin",
+        "description": "Ein verspielter Delfin, der mit seiner Freude durch die Wellen springt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glücksträumer",
+        "description": "Ein Träumer, der von Glück und positiven Erfahrungen umgeben ist.",
+        "grade": "green"
+      },
+      {
+        "name": "Jubelfunken",
+        "description": "Funken der Freude, die überall aufleuchten und Herzen zum Jubeln bringen.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockpanda",
+        "description": "Ein fröhlicher Panda, der mit seinem gemütlichen Wesen zum Frohlocken einlädt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückszephir",
+        "description": "Ein sanfter Zephir, der das Glück sanft über die Welt streut.",
+        "grade": "green"
+      },
+      {
+        "name": "Lachzauberer",
+        "description": "Ein Zauberer des Lachens, der mit seinen Tricks und Witzen alle verzaubert.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockfalter",
+        "description": "Ein farbenfroher Schmetterling, der mit seinem leichten Flug Freude verbreitet.",
+        "grade": "green"
+      },
+      {
+        "name": "Glücksmosaik",
+        "description": "Ein kunstvolles Mosaik des Glücks, das aus vielen kleinen Freuden besteht.",
+        "grade": "green"
+      },
+      {
+        "name": "Jubelstrahl",
+        "description": "Ein strahlender Funke der Freude, der alles erhellt.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockquell",
+        "description": "Ein sprudelnder Quell der Freude, der neue Energie schenkt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glücksflug",
+        "description": "Ein Flug des Glücks, der die Herzen leicht und frei macht.",
+        "grade": "green"
+      },
+      {
+        "name": "Lachsonnenschein",
+        "description": "Ein strahlender Sonnenschein des Lachens, der alle um sich herum erhellt.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockenigma",
+        "description": "Ein rätselhaftes Wesen der Freude, das die Herzen zum Frohlocken bringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückspurzelbaum",
+        "description": "Ein zauberhafter Baum, unter dem man das Glück finden kann.",
+        "grade": "green"
+      },
+      {
+        "name": "Jubeltornado",
+        "description": "Ein Wirbelsturm der Freude, der alles mit sich reißt und jubeln lässt.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockwichtel",
+        "description": "Ein kleiner Wichtel, der mit seiner fröhlichen Art die Herzen erfreut.",
+        "grade": "green"
+      },
+      {
+        "name": "Glückstaumler",
+        "description": "Ein stolpernder Glückspilz, der das Glück in den unerwarteten Momenten findet.",
+        "grade": "green"
+      },
+      {
+        "name": "Lachengel",
+        "description": "Ein Engel des Lachens, der mit seinen Flügeln der Freude überall hinfliegt.",
+        "grade": "green"
+      },
+      {
+        "name": "Frohlockkristall",
+        "description": "Ein funkelnder Kristall, der die Freude in allen Facetten widerspiegelt.",
+        "grade": "green"
+      },
+      {
+        "name": "Glücksflüsterer",
+        "description": "Ein Flüsterer des Glücks, der leise Worte der Freude in die Welt trägt.",
+        "grade": "green"
+      },
+      {
+        "name": "Fröhliche Sonnenfee",
+        "grade": "blue",
+        "description": "Diese strahlende Sonnenfee erzeugt ein warmes und glückliches Leuchten, das deine Verbündeten stärkt und ihre Lebenspunkte erhöht."
+      },
+      {
+        "name": "Lachender Glücksdrache",
+        "grade": "blue",
+        "description": "Mit seinem ansteckenden Lachen verbreitet dieser Glücksdrache Freude und positive Energie, um deine Monster zu verstärken und deine Gegner zu verwirren."
+      },
+      {
+        "name": "Freudiger Regenbogengeist",
+        "grade": "blue",
+        "description": "Dieser fröhliche Regenbogengeist beschwört lebendige Farben und fröhliche Energien, um deine Karten zu verstärken und das Spielfeld zu erhellen."
+      },
+      {
+        "name": "Heitere Himmelsnymphe",
+        "grade": "blue",
+        "description": "Mit ihrem zauberhaften Lächeln und ihrer positiven Aura erhebt diese Himmelsnymphe die Stimmung und gewährt deinen Verbündeten zusätzliche Schutzschilde."
+      },
+      {
+        "name": "Glückliche Glücksfee",
+        "grade": "blue",
+        "description": "Diese beflügelte Fee bringt Glück und Freude, indem sie Glücksbringer verteilt und deine Kartenziehungen verbessert."
+      },
+      {
+        "name": "Hoffnungsvoller Himmelsbote",
+        "grade": "blue",
+        "description": "Als Überbringer positiver Nachrichten und Hoffnung verbreitet dieser himmlische Bote Glück und Zuversicht auf dem Schlachtfeld."
+      },
+      {
+        "name": "Freudiges Einhorn",
+        "grade": "blue",
+        "description": "Dieses anmutige Einhorn strahlt Glück und Freude aus und verleiht deinen Monstern zusätzliche Stärke und Angriffskraft."
+      },
+      {
+        "name": "Lächelnde Glückskatze",
+        "grade": "blue",
+        "description": "Mit ihrem charmanten Lächeln und ihrem Glückspfoten bringt diese Glückskatze Wohlstand und positive Ereignisse in dein Duell."
+      },
+      {
+        "name": "Froher Marionettenspieler",
+        "grade": "blue",
+        "description": "Dieser fröhliche Marionettenspieler bringt Leben und Spaß ins Spiel, indem er deine Karten in ein lustiges Puppenspiel verwandelt."
+      },
+      {
+        "name": "Strahlende Sonnenblume",
+        "grade": "blue",
+        "description": "Mit ihrer strahlenden Präsenz erhellt diese Sonnenblume das Spielfeld und erhöht die Lebenspunkte deiner Verbündeten."
+      },
+      {
+        "name": "Fröhlicher Glückswichtel",
+        "grade": "blue",
+        "description": "Dieser freudige Glückswichtel bringt Glück und Überraschungen, indem er zufällige Boni und Vorteile für deine Karten gewährt."
+      },
+      {
+        "name": "Lustiger Kobold",
+        "grade": "blue",
+        "description": "Mit seinen Scherzen und Streichen sorgt dieser lustige Kobold für gute Laune und lenkt deine Gegner ab, während du deine Strategie aufbaust."
+      },
+      {
+        "name": "Freudiger Partyplaner",
+        "grade": "blue",
+        "description": "Dieser fröhliche Partyplaner organisiert die beste Duell-Party, bei der alle Monster eingeladen sind, um zu feiern und zusätzliche Effekte zu erhalten."
+      },
+      {
+        "name": "Hoffnungsvoller Sonnenaufgang",
+        "grade": "blue",
+        "description": "Dieser hoffnungsvolle Sonnenaufgang erstrahlt in leuchtenden Farben und gibt deinen Verbündeten neue Energie, um die Schlacht zu gewinnen."
+      },
+      {
+        "name": "Lächelnder Glücksfrosch",
+        "grade": "blue",
+        "description": "Mit seinem strahlenden Lächeln und seiner glücklichen Ausstrahlung bringt dieser Glücksfrosch positive Veränderungen und Boni für deine Karten."
+      },
+      {
+        "name": "Fröhlicher Regenbogenzauberer",
+        "grade": "blue",
+        "description": "Dieser fröhliche Regenbogenzauberer beschwört leuchtende Farben und zauberhafte Effekte, um deine Monster zu stärken und deine Gegner zu beeindrucken."
+      },
+      {
+        "name": "Glücklicher Talisman",
+        "grade": "blue",
+        "description": "Dieser glückbringende Talisman schützt deine Karten vor Unglück und bringt Wohlstand und positive Ereignisse auf deine Seite."
+      },
+      {
+        "name": "Hoffnungsvoller Engel",
+        "grade": "blue",
+        "description": "Als strahlender Bote der Hoffnung erhellt dieser Engel das Spielfeld und beschützt deine Verbündeten vor negativen Einflüssen."
+      },
+      {
+        "name": "Freudige Jubelkönigin",
+        "grade": "blue",
+        "description": "Mit ihrer bezaubernden Präsenz und ihrem enthusiastischen Jubel steigert diese Königin die Stimmung und verstärkt die Effekte deiner Monster."
+      },
+      {
+        "name": "Lachender Glückskobold",
+        "grade": "blue",
+        "description": "Dieser lachende Glückskobold bringt Glück und gute Laune auf das Spielfeld und verwirrt deine Gegner mit seinen Schelmenstreichen."
+      },
+      {
+        "name": "Der Sonnenstrahlzauberer",
+        "grade": "violet",
+        "description": "Mit strahlendem Lächeln und heiterem Sinn, bringt er Sonnenschein ins Duell hinein."
+      },
+      {
+        "name": "Die Lachende Blütenfee",
+        "grade": "violet",
+        "description": "Mit fröhlichem Kichern und Blüten im Haar, verbreitet sie Freude, wunderbar!"
+      },
+      {
+        "name": "Der Frohe Wirbelsturmritter",
+        "grade": "violet",
+        "description": "Er dreht sich im Kreis mit fröhlichem Schwung, bringt Glück und Freude, das ist sein Sprung!"
+      },
+      {
+        "name": "Die Singende Sternenprinzessin",
+        "grade": "violet",
+        "description": "Sie strahlt hell wie der Mond in der Nacht, ihre Stimme singt fröhlich und voller Pracht!"
+      },
+      {
+        "name": "Der Spaßige Schattenclown",
+        "grade": "violet",
+        "description": "Er jongliert mit Schatten und lacht dabei, im Duell sorgt er für Heiterkeit und Spaß, oh, wie fein!"
+      },
+      {
+        "name": "Die Glückliche Zauberelfe",
+        "grade": "violet",
+        "description": "Sie wirkt ihre Zaubersprüche mit einem Lachen, lässt Träume wahr werden, ohne ein Zaudern."
+      },
+      {
+        "name": "Der Fröhliche Donnerdrache",
+        "grade": "violet",
+        "description": "Er brüllt vor Freude, wenn der Donner grollt, im Duell ist er kühn und unerschrocken, wie es sich gehört."
+      },
+      {
+        "name": "Die Lachende Schattenbeschwörerin",
+        "grade": "violet",
+        "description": "Sie ruft Schatten hervor mit einem Lächeln, im Duell tanzen sie fröhlich und fügen dem Gegner Schaden."
+      },
+      {
+        "name": "Der Frohe Glückshase",
+        "grade": "violet",
+        "description": "Er hüpft und springt mit vergnügtem Sinn, im Duell bringt er Glück, das ist sein Gewinn."
+      },
+      {
+        "name": "Die Schelmische Lichtelfe",
+        "grade": "violet",
+        "description": "Sie fliegt durch das Licht mit einem Grinsen, verbreitet Frohsinn, oh, wie fein!"
+      },
+      {
+        "name": "Der Lustige Schattenmagier",
+        "grade": "violet",
+        "description": "Er zaubert mit Schatten und witzigem Blick, im Duell macht er Streiche, das ist sein Trick."
+      },
+      {
+        "name": "Die Frohe Traumprinzessin",
+        "grade": "violet",
+        "description": "Sie schläft im Traum mit einem Lachen, im Duell erwacht sie, um Freude zu machen."
+      },
+      {
+        "name": "Der Singende Feuerdrache",
+        "grade": "violet",
+        "description": "Sein Feueratem erklingt wie ein Lied, im Duell verbreitet er Freude und Gebiet."
+      },
+      {
+        "name": "Die Lachende Blitzelementaristin",
+        "grade": "violet",
+        "description": "Sie beherrscht Blitz und Witz mit Leichtigkeit, im Duell erstrahlt sie in heiterer Herrlichkeit."
+      },
+      {
+        "name": "Der Spaßige Schattenzauberer",
+        "grade": "violet",
+        "description": "Er wirkt Zaubersprüche mit lustigem Schwung, im Duell sorgt er für Spaß und Gelächter, wie es sich gehört."
+      },
+      {
+        "name": "Die Glückliche Himmelsnymphe",
+        "grade": "violet",
+        "description": "Sie tanzt auf den Wolken mit frohem Gemüt, im Duell verleiht sie Glück, das ist ihr Rüstzeug."
+      },
+      {
+        "name": "Der Fröhliche Erdengel",
+        "grade": "violet",
+        "description": "Er schwebt durch die Erde mit einem Lachen, im Duell beschützt er mit Freude und Macht."
+      },
+      {
+        "name": "Die Lachende Wassernixe",
+        "grade": "violet",
+        "description": "Sie schwimmt im Wasser mit freudigem Singen, im Duell bringt sie Kühle und heiteres Springen."
+      },
+      {
+        "name": "Der Frohe Waldgeist",
+        "grade": "violet",
+        "description": "Er tanzt durch den Wald mit lustigem Sinn, im Duell verzaubert er mit Freude, das ist sein Gewinn."
+      },
+      {
+        "name": "Die Schelmische Feenillusionistin",
+        "grade": "violet",
+        "description": "Sie zaubert mit Illusionen und einem Grinsen, im Duell spielt sie Streiche, das ist ihr Sinn."
+      }
+    ],
+    "neutral": [
+      {
+        "name": "Master der Linguistik",
+        "description": "Hat sich aus Spaß ein Lexikon gekauft. Beim Durchblättern der Sportbegriffe wünschte er sich, dass der Verlag besser Korrektur gelesen hätte.. Da ist ein Fehler unter Laufen.",
+        "grade": "gold"
+      },
+      {
+        "name": "Manuel Alter",
+        "description": "Als Torwart wurde er beim Training einfach von mehreren Bällen gleichzeitig beschossen. Er wusste nicht was er davon halten soll..",
+        "grade": "gold"
+      },
+      {
+        "name": "Vielbefahrenen Autobahnbrücke",
+        "description": "Viele fragen, was man unter vielbefahrenen Autobahnbrücke versteht und nur die wenigsten wissen, dass es eine Fangfrage ist. Denn unter einer vielbefahrenen Autobahnbrücke versteht man nichts, da es viel zu laut ist..",
+        "grade": "gold"
+      },
+      {
+        "name": "Spekuliereisenträger",
+        "description": "Mit den 3cm dicken Glasbausteien, getragen von seinen ergonomisch zertifizierten Nasenfahrrad, bestizt er die Fähigkeit nicht nur die Anzahl der Kekse einer Spekulatius-Packung zu erraten sondern diese zu spekulieren.",
+        "grade": "gold"
+      },
+      {
+        "name": "Neutralino",
+        "description": "Ein mysteriöses Teilchen, das weder positiv noch negativ geladen ist.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichgeist",
+        "description": "Ein Geist, der keine Vorlieben oder Abneigungen hat und neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Balancebote",
+        "description": "Ein Bote der Ausgewogenheit, der neutral zwischen allen Dingen steht.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralblick",
+        "description": "Ein Blick, der frei von Vorurteilen ist und alles objektiv betrachtet.",
+        "grade": "green"
+      },
+      {
+        "name": "Harmoniehüter",
+        "description": "Ein Hüter der Harmonie, der darauf bedacht ist, ein neutrales Gleichgewicht aufrechtzuerhalten.",
+        "grade": "green"
+      },
+      {
+        "name": "Unparteilichler",
+        "description": "Eine Person, die keine Partei ergreift und immer neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralgeist",
+        "description": "Ein Geist, der keine Vorlieben oder Abneigungen hat und neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichgewichtsflüsterer",
+        "description": "Ein Flüsterer, der das Geheimnis des neutralen Gleichgewichts kennt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralstern",
+        "description": "Ein Stern, der weder zu hell noch zu dunkel leuchtet und neutral erscheint.",
+        "grade": "green"
+      },
+      {
+        "name": "Ausgeglichenator",
+        "description": "Ein Meister des Ausgleichs, der immer eine neutrale Position einnimmt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralmagnet",
+        "description": "Ein Magnet, der weder Anziehung noch Abstoßung zeigt und neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichmutwächter",
+        "description": "Ein Wächter des Gleichmuts, der neutral auf alle Situationen reagiert.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralguru",
+        "description": "Ein weiser Guru, der die Kunst der Neutralität beherrscht.",
+        "grade": "green"
+      },
+      {
+        "name": "Unvoreingenomagus",
+        "description": "Ein Magier, der frei von Vorurteilen ist und neutral zaubert.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralpuls",
+        "description": "Ein Puls, der weder schnell noch langsam ist und neutral schlägt.",
+        "grade": "green"
+      },
+      {
+        "name": "Harmoniediener",
+        "description": "Ein Diener der Harmonie, der neutral zwischen allen Konflikten vermittelt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralflüsterer",
+        "description": "Ein Flüsterer, der die Kunst der Neutralität beherrscht und immer objektive Ratschläge gibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichgewichtswanderer",
+        "description": "Ein Wanderer, der stets das Gleichgewicht sucht und neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralstrahl",
+        "description": "Ein Strahl, der weder warm noch kalt ist und neutral erscheint.",
+        "grade": "green"
+      },
+      {
+        "name": "Unparteiischer",
+        "description": "Eine Person, die keine Partei ergreift und immer neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralvisionär",
+        "description": "Ein Visionär, der eine neutrale Perspektive auf die Dinge hat und über den Tellerrand hinausblickt.",
+        "grade": "green"
+      },
+      {
+        "name": "Harmoniebewahrer",
+        "description": "Ein Bewahrer der Harmonie, der neutral zwischen allen Streitigkeiten vermittelt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralbote",
+        "description": "Ein Bote der Neutralität, der objektive Nachrichten und Informationen überbringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichgewichtskünstler",
+        "description": "Ein Künstler, der das Gleichgewicht zwischen allen Dingen sucht und neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralmagier",
+        "description": "Ein Magier, der weder Licht noch Dunkelheit beherrscht und neutral zaubert.",
+        "grade": "green"
+      },
+      {
+        "name": "Ausgeglichenheitsmeister",
+        "description": "Ein Meister der Ausgeglichenheit, der immer eine neutrale Position einnimmt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralgeistlicher",
+        "description": "Ein Geistlicher, der sich für Neutralität und Objektivität einsetzt.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichmutforscher",
+        "description": "Ein Forscher, der das Geheimnis des neutralen Gleichmuts erforscht.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralstille",
+        "description": "Eine Stille, die weder angenehm noch unangenehm ist und neutral empfunden wird.",
+        "grade": "green"
+      },
+      {
+        "name": "Unbefangenheitskünstler",
+        "description": "Ein Künstler, der frei von Vorurteilen ist und in seiner Kunst neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralaura",
+        "description": "Eine Aura der Neutralität, die eine ausgewogene und ausgeglichene Energie ausstrahlt.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichgewichtsmagier",
+        "description": "Ein Magier, der die Kunst des Gleichgewichts beherrscht und neutral zaubert.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralflamme",
+        "description": "Eine Flamme, die weder heiß noch kalt brennt und neutral erscheint.",
+        "grade": "green"
+      },
+      {
+        "name": "Ausgeglichenheitsguru",
+        "description": "Ein Guru, der die Lehren der Ausgeglichenheit und Neutralität vermittelt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralpfeil",
+        "description": "Ein Pfeil, der weder nach links noch nach rechts zeigt und neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Harmonievermittler",
+        "description": "Ein Vermittler der Harmonie, der neutral zwischen allen Parteien steht.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralwanderer",
+        "description": "Ein Wanderer, der neutral durch die Welt zieht und alle Facetten des Lebens erfährt.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichgewichtsflamme",
+        "description": "Eine Flamme, die das Gleichgewicht zwischen Hitze und Kälte hält und neutral brennt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralstein",
+        "description": "Ein Stein, der weder schwer noch leicht ist und neutral in der Hand liegt.",
+        "grade": "green"
+      },
+      {
+        "name": "Unvoreingenommenheitsmeister",
+        "description": "Ein Meister der Unvoreingenommenheit, der stets neutral bleibt und alle Seiten betrachtet.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralzeuge",
+        "description": "Ein Zeuge, der neutral über Ereignisse berichtet und keine Partei ergreift.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichmutsträger",
+        "description": "Ein Träger des Gleichmuts, der neutral auf alle Emotionen reagiert.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralblicker",
+        "description": "Ein Betrachter, der einen neutralen Blick auf die Dinge wirft und objektiv urteilt.",
+        "grade": "green"
+      },
+      {
+        "name": "Harmonieschützer",
+        "description": "Ein Schützer der Harmonie, der neutral zwischen allen Bedrohungen steht.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralflamme",
+        "description": "Eine Flamme, die weder heiß noch kalt brennt und neutral erscheint.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichgewichtsforscher",
+        "description": "Ein Forscher, der das Geheimnis des Gleichgewichts erforscht und neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralquelle",
+        "description": "Eine Quelle, die neutrales Wasser spendet und Reinheit symbolisiert.",
+        "grade": "green"
+      },
+      {
+        "name": "Unparteiischin",
+        "description": "Eine Person, die keine Partei ergreift und immer neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralflügler",
+        "description": "Ein Flügler, der neutral zwischen allen Welten fliegt und Harmonie verbreitet.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichgewichtstänzer",
+        "description": "Ein Tänzer, der das Gleichgewicht zwischen Bewegung und Stille sucht und neutral tanzt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralbotschafter",
+        "description": "Ein Botschafter der Neutralität, der zwischen verschiedenen Interessen vermittelt.",
+        "grade": "green"
+      },
+      {
+        "name": "Harmoniewirbler",
+        "description": "Ein Wirbler, der die Harmonie um sich herum wirbelt und neutral bleibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralgeistlicher",
+        "description": "Ein Geistlicher, der sich für Neutralität und Ausgeglichenheit einsetzt.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichgewichtsmaler",
+        "description": "Ein Maler, der das Gleichgewicht zwischen Farben und Formen sucht und neutral malt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralträger",
+        "description": "Ein Träger, der neutral durchs Leben geht und keine Vorlieben oder Abneigungen hat.",
+        "grade": "green"
+      },
+      {
+        "name": "Unvoreingenommenheitskrieger",
+        "description": "Ein Krieger, der in allen Situationen neutral bleibt und objektiv handelt.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralaura",
+        "description": "Eine Aura der Neutralität, die eine ausgewogene und ausgeglichene Energie ausstrahlt.",
+        "grade": "green"
+      },
+      {
+        "name": "Gleichmutswandler",
+        "description": "Ein Wandler des Gleichmuts, der sich an alle Emotionen anpassen und neutral bleiben kann.",
+        "grade": "green"
+      },
+      {
+        "name": "Neutralhüter",
+        "description": "Ein Hüter der Neutralität, der darauf bedacht ist, ein ausgeglichenes Gleichgewicht aufrechtzuerhalten.",
+        "grade": "green"
+      },
+      {
+        "name": "Harmonischer Wächter",
+        "grade": "blue",
+        "description": "Dieser friedliche Wächter bewahrt das Gleichgewicht zwischen Licht und Dunkelheit, um das Spielfeld in Harmonie zu halten und deinen Verbündeten Schutz zu gewähren."
+      },
+      {
+        "name": "Stoischer Gelehrter",
+        "grade": "blue",
+        "description": "Mit seiner ruhigen und bedachten Art bringt dieser Gelehrte Weisheit und strategisches Denken in dein Duell, um deine Gegner zu überlisten."
+      },
+      {
+        "name": "Neutraler Schutzgeist",
+        "grade": "blue",
+        "description": "Dieser Schutzgeist ist weder dem Licht noch der Dunkelheit zugehörig, aber er ist bereit, seine Verbündeten zu verteidigen und sie vor jeglicher Bedrohung zu schützen."
+      },
+      {
+        "name": "Ausgeglichener Meister",
+        "grade": "blue",
+        "description": "Dieser Meister der Ausgeglichenheit beherrscht die Kunst der Anpassung und passt sich jeder Situation an, um das Beste aus deinen Karten herauszuholen."
+      },
+      {
+        "name": "Gelassener Zen-Mönch",
+        "grade": "blue",
+        "description": "Dieser zenartige Mönch erlangt innere Ruhe und Gelassenheit, um negative Effekte abzuwehren und deinen Verbündeten Frieden und Schutz zu gewähren."
+      },
+      {
+        "name": "Neutraler Taktiker",
+        "grade": "blue",
+        "description": "Mit seinem analytischen Verstand und seiner objektiven Sichtweise entwickelt dieser Taktiker ausgeklügelte Strategien, um deine Gegner zu überlisten und den Sieg zu erringen."
+      },
+      {
+        "name": "Gleichmütiger Seher",
+        "grade": "blue",
+        "description": "Als Seher mit klarem Geist und ausgeglichener Energie erkennt dieser Gleichmütige zukünftige Ereignisse und weist dir den richtigen Weg in deinem Duell."
+      },
+      {
+        "name": "Ruhiger Himmelsstern",
+        "grade": "blue",
+        "description": "Dieser ruhige Himmelsstern bringt Ausgeglichenheit und Harmonie in den Himmel, um deine Verbündeten zu stärken und ihre Fähigkeiten zu verbessern."
+      },
+      {
+        "name": "Neutraler Schleierdancer",
+        "grade": "blue",
+        "description": "Dieser anmutige Schleierdancer bleibt neutral zwischen Licht und Dunkelheit und nutzt die Balance, um elegante und mächtige Angriffe zu entfesseln."
+      },
+      {
+        "name": "Gelassener Wächtergeist",
+        "grade": "blue",
+        "description": "Mit seiner ruhigen Präsenz und seinem schützenden Geist bewahrt dieser Wächtergeist das Gleichgewicht und verteidigt deine Verbündeten gegen jede Gefahr."
+      },
+      {
+        "name": "Stiller Beobachter",
+        "grade": "blue",
+        "description": "Dieser stille Beobachter analysiert die Situation und erkennt die Schwachstellen deiner Gegner, um taktische Vorteile zu nutzen und das Duell zu gewinnen."
+      },
+      {
+        "name": "Harmonischer Melodiker",
+        "grade": "blue",
+        "description": "Mit seinen sanften Klängen und harmonischen Melodien bringt dieser Melodiker Ausgeglichenheit und Ruhe auf das Spielfeld, um deine Verbündeten zu inspirieren."
+      },
+      {
+        "name": "Neutraler Alchemist",
+        "grade": "blue",
+        "description": "Dieser Alchemist beherrscht die Kunst der Neutralität und verwandelt ungewollte Situationen in Vorteile, um das Gleichgewicht deiner Karten zu bewahren."
+      },
+      {
+        "name": "Gelassener Zen-Bogen",
+        "grade": "blue",
+        "description": "Dieser zenartige Bogen schießt Pfeile der Ruhe und Stabilität, um deine Verbündeten zu stärken und deine Gegner zu beruhigen."
+      },
+      {
+        "name": "Gleichmütiger Himmelswandler",
+        "grade": "blue",
+        "description": "Als wandelnder Himmelsbewohner verbindet sich dieser Gleichmütige mit den Kräften des Himmels und der Erde, um das Gleichgewicht auf dem Schlachtfeld aufrechtzuerhalten."
+      },
+      {
+        "name": "Ruhiger Schleiermagier",
+        "grade": "blue",
+        "description": "Mit seinen mystischen Schleiern und seiner besonnenen Magie verwirrt dieser Schleiermagier deine Gegner und ermöglicht dir strategische Vorteile."
+      },
+      {
+        "name": "Neutraler Schutzschild",
+        "grade": "blue",
+        "description": "Dieser Schutzschild schirmt deine Verbündeten vor Schaden ab und bleibt neutral gegenüber den Kräften der Dunkelheit und des Lichts."
+      },
+      {
+        "name": "Stoischer Verteidiger",
+        "grade": "blue",
+        "description": "Mit seiner unerschütterlichen Haltung und seinem festen Glauben verteidigt dieser stoische Verteidiger das Spielfeld und gewährt deinen Verbündeten Schutz."
+      },
+      {
+        "name": "Gelassener Gedankenleser",
+        "grade": "blue",
+        "description": "Dieser geduldige Gedankenleser ergründet die Absichten deiner Gegner und nutzt sein Wissen, um ihre Strategien zu durchschauen und zu kontern."
+      },
+      {
+        "name": "Ruhiger Seelenbeschwörer",
+        "grade": "blue",
+        "description": "Dieser Seelenbeschwörer beruhigt die Seelen der Monster und bringt sie ins Gleichgewicht, um ihre Stärke zu erhöhen und ihnen neue Fähigkeiten zu verleihen."
+      },
+      {
+        "name": "Der Ausgeglichene Wächter",
+        "grade": "violet",
+        "description": "In seiner Mitte, ruhig und still, beschützt er das Duell mit ruhigem Will."
+      },
+      {
+        "name": "Die Besonnene Strategin",
+        "grade": "violet",
+        "description": "Mit klarem Verstand und ruhigem Blick, plant sie die Züge, geschickt und schick."
+      },
+      {
+        "name": "Der Gelassene Meister",
+        "grade": "violet",
+        "description": "Mit ruhiger Hand und weisem Sinn, führt er das Duell zum großen Gewinn."
+      },
+      {
+        "name": "Die Stille Schattenmeisterin",
+        "grade": "violet",
+        "description": "Sie beherrscht die Schatten, ruhig und klug, im Duell bleibt sie stets auf dem Zug."
+      },
+      {
+        "name": "Der Bedächtige Erdengeist",
+        "grade": "violet",
+        "description": "Er spürt den Boden, fest und gediegen, im Duell kann ihm nichts entfliehen."
+      },
+      {
+        "name": "Die Ausgeglichene Himmelsnymphe",
+        "grade": "violet",
+        "description": "Sie schwebt in der Luft, ruhig und frei, im Duell verleiht sie Harmonie."
+      },
+      {
+        "name": "Der Ruhige Wassermagier",
+        "grade": "violet",
+        "description": "Er beherrscht das Wasser, ruhig und klar, im Duell bleibt er stets wachsam und wahr."
+      },
+      {
+        "name": "Die Gelassene Feenillusionistin",
+        "grade": "violet",
+        "description": "Sie zaubert Illusionen, ruhig und sacht, im Duell sorgt sie für eine magische Nacht."
+      },
+      {
+        "name": "Der Besonnene Lichtkrieger",
+        "grade": "violet",
+        "description": "Mit seinem Schwert, ruhig und kühn, kämpft er im Duell, ein wahrer Held, wie es sollte sein."
+      },
+      {
+        "name": "Die Stille Schattenbeschwörerin",
+        "grade": "violet",
+        "description": "Sie ruft die Schatten, leise und sanft, im Duell schafft sie eine mystische Graft."
+      },
+      {
+        "name": "Der Gelassene Donnerdrache",
+        "grade": "violet",
+        "description": "Sein Donner grollt, ruhig und stark, im Duell zeigt er seine mächtige Mark."
+      },
+      {
+        "name": "Die Ausgeglichene Erdnymphe",
+        "grade": "violet",
+        "description": "Sie lebt in der Erde, ruhig und klar, im Duell ist sie eine starke Schar."
+      },
+      {
+        "name": "Der Bedächtige Windmagier",
+        "grade": "violet",
+        "description": "Er beherrscht den Wind, ruhig und geschwind, im Duell ist er ein Meister im Geschind."
+      },
+      {
+        "name": "Die Ruhige Flammenpriesterin",
+        "grade": "violet",
+        "description": "Sie betet zu den Flammen, ruhig und warm, im Duell schafft sie eine mächtige Schwarm."
+      },
+      {
+        "name": "Der Besonnene Schattenkrieger",
+        "grade": "violet",
+        "description": "Er kämpft in der Dunkelheit, ruhig und schnell, im Duell ist er ein Meister des Quell."
+      },
+      {
+        "name": "Die Stille Lichtnymphe",
+        "grade": "violet",
+        "description": "Sie strahlt helles Licht, ruhig und klar, im Duell ist sie eine strahlende Schar."
+      },
+      {
+        "name": "Der Gelassene Wasserzauberer",
+        "grade": "violet",
+        "description": "Er wirkt Wasserzauber, ruhig und sacht, im Duell sorgt er für eine magische Pracht."
+      },
+      {
+        "name": "Die Ausgeglichene Luftelfe",
+        "grade": "violet",
+        "description": "Sie tanzt in der Luft, ruhig und leicht, im Duell ist sie eine mächtige Erscheinung, schleicht."
+      },
+      {
+        "name": "Der Bedächtige Feuerkrieger",
+        "grade": "violet",
+        "description": "Mit seinem Schwert, ruhig und heiß, kämpft er im Duell, ein Held, so leis."
+      },
+      {
+        "name": "Die Ruhige Schattenbeschwörerin",
+        "grade": "violet",
+        "description": "Sie beschwört die Schatten, ruhig und klug, im Duell bleibt sie immer auf dem Zug."
+      }
+    ],
+    "angry": [
+      {
+        "name": "Alman",
+        "description": "Beschwert sich aufgrund eines Pakets, dessen Inhalt er mit Spannung erwartet hat. \"Es ist eine Feschheit, dass die Batterien die ich bestellt habe, alle leer sind!\" ",
+        "grade": "gold"
+      },
+      {
+        "name": "Mahatma Curry",
+        "description": "Mit den Weisen Worten: \"Das Curry sei gesegnet!\" formte der Prophet die Gabel zum Löffel und das Curry schmeckte gut!",
+        "grade": "gold"
+      },
+      {
+        "name": "Friseur Lehrling",
+        "description": "Wenn er seine Ausbildung nicht schaffen sollte, dann kann man davon ausgehen, dass er einfach nur schlecht abgeschnitten hat..",
+        "grade": "gold"
+      },
+      {
+        "name": "Wutblitz",
+        "description": "Ein blitzschneller Ausbruch der Wut, der alles in seinem Weg zerstört.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornhammer",
+        "description": "Ein Hammer, der von Zorn getrieben ist und mit wütender Kraft zuschlägt.",
+        "grade": "green"
+      },
+      {
+        "name": "Grimmfeuer",
+        "description": "Ein Feuer, das vor Wut brennt und alles in seiner Umgebung verschlingt.",
+        "grade": "green"
+      },
+      {
+        "name": "Ragestorm",
+        "description": "Ein tobender Sturm der Wut, der alles in seinem Pfad zerfetzt und zerstört.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornklinge",
+        "description": "Eine Klinge, die vor Wut glüht und mit rasender Geschwindigkeit zuschlägt.",
+        "grade": "green"
+      },
+      {
+        "name": "Wutschrei",
+        "description": "Ein markerschütternder Schrei der Wut, der das Blut gefrieren lässt.",
+        "grade": "green"
+      },
+      {
+        "name": "Rasereiherz",
+        "description": "Ein Herz, das vor Wut pocht und mit ungezähmter Kraft schlägt.",
+        "grade": "green"
+      },
+      {
+        "name": "Gnadenlosewut",
+        "description": "Eine gnadenlose Wut, die keine Grenzen kennt und alles niederbrennt.",
+        "grade": "green"
+      },
+      {
+        "name": "Furorfaust",
+        "description": "Eine Faust, die vor Zorn bebend zuschlägt und ihre Ziele vernichtet.",
+        "grade": "green"
+      },
+      {
+        "name": "Zerstörungswelle",
+        "description": "Eine unaufhaltsame Welle der Zerstörung, die alles in ihrem Weg ausradiert.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornausbruch",
+        "description": "Ein gewaltiger Ausbruch der Wut, der alles um sich herum in Schutt und Asche legt.",
+        "grade": "green"
+      },
+      {
+        "name": "Wutfluch",
+        "description": "Ein Fluch der Wut, der seine Opfer mit unerbittlicher Zerstörung heimsucht.",
+        "grade": "green"
+      },
+      {
+        "name": "Grimmgriff",
+        "description": "Ein eiserner Griff der Wut, der seine Gegner erdrückt und zerquetscht.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornnova",
+        "description": "Eine Explosion der Wut, die alles in ihrer Nähe in einen Flammeninferno verwandelt.",
+        "grade": "green"
+      },
+      {
+        "name": "Rasereiklinge",
+        "description": "Eine Klinge, die vor Wut vibriert und mit wütender Präzision zuschlägt.",
+        "grade": "green"
+      },
+      {
+        "name": "Wutsturm",
+        "description": "Ein wilder Sturm der Wut, der alles niederreißt und nichts verschont.",
+        "grade": "green"
+      },
+      {
+        "name": "Zerberuszorn",
+        "description": "Der dreiköpfige Hund der Wut, dessen Bellen Schrecken verbreitet und Feinde vertreibt.",
+        "grade": "green"
+      },
+      {
+        "name": "Furyflamme",
+        "description": "Eine lodernde Flamme der Wut, die alles in ihrer Umgebung verbrennt und verzehrt.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornkomet",
+        "description": "Ein Komet aus Zorn, der mit vernichtender Wucht auf sein Ziel zurast.",
+        "grade": "green"
+      },
+      {
+        "name": "Wutlawine",
+        "description": "Eine unaufhaltsame Lawine der Wut, die alles unter sich begräbt und zerstört.",
+        "grade": "green"
+      },
+      {
+        "name": "Grimmvernichter",
+        "description": "Ein gnadenloser Vernichter, der von Wut getrieben ist und seine Gegner zermalmt.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornesschlag",
+        "description": "Ein vernichtender Schlag der Wut, der seine Opfer in die Knie zwingt.",
+        "grade": "green"
+      },
+      {
+        "name": "Rageinferno",
+        "description": "Ein wütendes Inferno, das alles in seiner Reichweite in Asche legt.",
+        "grade": "green"
+      },
+      {
+        "name": "Zerstörungswut",
+        "description": "Eine ungebändigte Wut, die nach Zerstörung dürstet und alles in ihrem Pfad vernichtet.",
+        "grade": "green"
+      },
+      {
+        "name": "Wutgigant",
+        "description": "Ein gigantischer Ausbruch der Wut, der alles in seiner Umgebung erschüttert und niederreißt.",
+        "grade": "green"
+      },
+      {
+        "name": "Grimmfauch",
+        "description": "Ein furchteinflößendes Fauchen der Wut, das Feinde erzittern lässt.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornexplosion",
+        "description": "Eine gewaltige Explosion der Wut, die alles in ihrer Nähe pulverisiert.",
+        "grade": "green"
+      },
+      {
+        "name": "Wutrüstung",
+        "description": "Eine Rüstung der Wut, die ihren Träger unverwundbar und unaufhaltsam macht.",
+        "grade": "green"
+      },
+      {
+        "name": "Furyblitz",
+        "description": "Ein blitzschneller Ausbruch der Wut, der seine Gegner mit vernichtender Geschwindigkeit trifft.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornpeitsche",
+        "description": "Eine Peitsche der Wut, die ihre Opfer mit unbarmherziger Härte trifft und verletzt.",
+        "grade": "green"
+      },
+      {
+        "name": "Ragesturm",
+        "description": "Ein wütender Sturm, der mit ungezügelter Wucht alles in seinem Pfad zerschmettert.",
+        "grade": "green"
+      },
+      {
+        "name": "Zerberuszornig",
+        "description": "Der dreiköpfige Hund der Wut, der seine Zähne fletscht und seine Feinde bedroht.",
+        "grade": "green"
+      },
+      {
+        "name": "Furyfluch",
+        "description": "Ein Fluch der Wut, der seine Opfer mit unablässiger Qual heimsucht.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornbeben",
+        "description": "Ein gewaltiges Beben der Wut, das die Erde erschüttert und Angst verbreitet.",
+        "grade": "green"
+      },
+      {
+        "name": "Wutnova",
+        "description": "Eine explosive Nova der Wut, die alles in ihrer Umgebung pulverisiert.",
+        "grade": "green"
+      },
+      {
+        "name": "Grimmklinge",
+        "description": "Eine Klinge, die vor Zorn schimmert und ihre Feinde mit gnadenloser Präzision durchschneidet.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornlawine",
+        "description": "Eine unaufhaltsame Lawine der Wut, die alles in ihrem Pfad niederwalzt und vernichtet.",
+        "grade": "green"
+      },
+      {
+        "name": "Furyschlag",
+        "description": "Ein vernichtender Schlag der Wut, der seine Gegner in die Knie zwingt.",
+        "grade": "green"
+      },
+      {
+        "name": "Ragefeuer",
+        "description": "Ein Feuer, das vor Zorn brennt und alles in seiner Umgebung in Flammen setzt.",
+        "grade": "green"
+      },
+      {
+        "name": "Zerstörungswelle",
+        "description": "Eine unaufhaltsame Welle der Zerstörung, die alles in ihrem Weg ausradiert.",
+        "grade": "green"
+      },
+      {
+        "name": "Wutexplosion",
+        "description": "Eine gewaltige Explosion der Wut, die alles um sich herum in Schutt und Asche legt.",
+        "grade": "green"
+      },
+      {
+        "name": "Grimmfaust",
+        "description": "Eine Faust, die vor Zorn bebend zuschlägt und ihre Ziele vernichtet.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornausbruch",
+        "description": "Ein gewaltiger Ausbruch der Wut, der alles um sich herum in Schutt und Asche legt.",
+        "grade": "green"
+      },
+      {
+        "name": "Furyschrei",
+        "description": "Ein markerschütternder Schrei der Wut, der das Blut gefrieren lässt.",
+        "grade": "green"
+      },
+      {
+        "name": "Rageherz",
+        "description": "Ein Herz, das vor Wut pocht und mit ungezähmter Kraft schlägt.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornbeben",
+        "description": "Ein gewaltiges Beben der Wut, das die Erde erschüttert und Angst verbreitet.",
+        "grade": "green"
+      },
+      {
+        "name": "Furyvernichter",
+        "description": "Ein gnadenloser Vernichter, der von Wut getrieben ist und seine Gegner zermalmt.",
+        "grade": "green"
+      },
+      {
+        "name": "Zerberuszornig",
+        "description": "Der dreiköpfige Hund der Wut, der seine Zähne fletscht und seine Feinde bedroht.",
+        "grade": "green"
+      },
+      {
+        "name": "Wutrüstung",
+        "description": "Eine Rüstung der Wut, die ihren Träger unverwundbar und unaufhaltsam macht.",
+        "grade": "green"
+      },
+      {
+        "name": "Grimmpeitsche",
+        "description": "Eine Peitsche der Wut, die ihre Opfer mit unbarmherziger Härte trifft und verletzt.",
+        "grade": "green"
+      },
+      {
+        "name": "Zornsturm",
+        "description": "Ein wütender Sturm, der mit ungezügelter Wucht alles in seinem Pfad zerschmettert.",
+        "grade": "green"
+      },
+      {
+        "name": "Furywirbel",
+        "description": "Ein wirbelnder Sturm der Wut, der seine Gegner in die Luft wirbelt und zerreißt.",
+        "grade": "green"
+      },
+      {
+        "name": "Rageschrecken",
+        "description": "Ein schreckliches Wesen der Wut, das Angst und Schrecken verbreitet.",
+        "grade": "green"
+      },
+      {
+        "name": "Wütender Berserker",
+        "grade": "blue",
+        "description": "Dieser wütende Berserker stürzt sich mit unkontrollierter Wut auf deine Gegner und richtet verheerenden Schaden an, während er sich selbst opfert."
+      },
+      {
+        "name": "Rasender Sturmgeist",
+        "grade": "blue",
+        "description": "Mit seinem tosenden Zorn entfesselt dieser rasende Sturmgeist gewaltige Windkräfte, um die Monster deiner Gegner zu zerstreuen und ihre Strategien zu durchkreuzen."
+      },
+      {
+        "name": "Zorniger Flammenmagier",
+        "grade": "blue",
+        "description": "Dieser zornige Flammenmagier beschwört feurige Infernos, um deine Gegner zu verbrennen und ihre Karten in Asche zu verwandeln."
+      },
+      {
+        "name": "Wütender Donnerdrache",
+        "grade": "blue",
+        "description": "Mit seinem aufgeladenen Zorn entfesselt dieser wütende Donnerdrache mächtige Blitzschläge, um deine Gegner zu schocken und zu schwächen."
+      },
+      {
+        "name": "Zornige Schattenassassine",
+        "grade": "blue",
+        "description": "Diese zornige Schattenassassine schleicht sich in die Dunkelheit und nutzt ihren Zorn, um deine Gegner heimlich zu erledigen und ihnen keine Chance zu lassen."
+      },
+      {
+        "name": "Rachsüchtiger Dämon",
+        "grade": "blue",
+        "description": "Dieser rachsüchtige Dämon sinnt auf Vergeltung und entfesselt seine finsteren Kräfte, um deine Gegner zu bestrafen und ihre Existenz auszulöschen."
+      },
+      {
+        "name": "Wütender Drachentöter",
+        "grade": "blue",
+        "description": "Mit seinem unbezähmbaren Zorn stürzt sich dieser wütende Drachentöter auf die mächtigsten Drachen und vernichtet sie mit einer einzigen vernichtenden Attacke."
+      },
+      {
+        "name": "Zorniger Eissturm",
+        "grade": "blue",
+        "description": "Dieser zornige Eissturm bringt eisige Kälte und Frost auf das Schlachtfeld, um deine Gegner zu gefrieren und ihre Angriffe zu vereiteln."
+      },
+      {
+        "name": "Rasender Feuerdämon",
+        "grade": "blue",
+        "description": "Mit seinem lodernden Zorn entfesselt dieser rasende Feuerdämon infernale Flammen, um deine Gegner zu versengen und ihre Karten zu vernichten."
+      },
+      {
+        "name": "Wütende Erderschütterung",
+        "grade": "blue",
+        "description": "Diese wütende Erderschütterung erschüttert das Schlachtfeld und lässt den Boden unter den Füßen deiner Gegner erzittern, um sie zu Fall zu bringen."
+      },
+      {
+        "name": "Zorniger Stahlkoloss",
+        "grade": "blue",
+        "description": "Mit seiner unbezwingbaren Wut rast dieser zornige Stahlkoloss durch das Spielfeld und zerschmettert alles in seinem Weg, ohne Gnade."
+      },
+      {
+        "name": "Rachsüchtige Schattenschwester",
+        "grade": "blue",
+        "description": "Diese rachsüchtige Schattenschwester spinnt ein Netz aus Dunkelheit und Rache, um deine Gegner gefangen zu nehmen und ihnen ihre schlimmsten Alpträume zu bescheren."
+      },
+      {
+        "name": "Wütender Wirbelsturm",
+        "grade": "blue",
+        "description": "Mit seinem tosenden Zorn entfesselt dieser wütende Wirbelsturm zerstörerische Windwinde, um deine Gegner zu verwirren und ihre Verteidigung zu schwächen."
+      },
+      {
+        "name": "Zornige Feuerschlange",
+        "grade": "blue",
+        "description": "Diese zornige Feuerschlange spuckt lodernde Flammen aus ihrem Maul und verbrennt alles, was sich ihr in den Weg stellt, bis nichts mehr übrig bleibt."
+      },
+      {
+        "name": "Rachsüchtiger Schattendrache",
+        "grade": "blue",
+        "description": "Dieser rachsüchtige Schattendrache lauert in der Dunkelheit und wartet geduldig auf den richtigen Moment, um deine Gegner mit einem vernichtenden Angriff zu überraschen."
+      },
+      {
+        "name": "Wütender Donnerschlag",
+        "grade": "blue",
+        "description": "Dieser wütende Donnerschlag erschüttert das Spielfeld mit unaufhaltsamer Wut und vernichtet alles in seinem Weg, um deine Gegner zu besiegen."
+      },
+      {
+        "name": "Zornige Flammenbestie",
+        "grade": "blue",
+        "description": "Mit ihrer wilden Wut und brennenden Leidenschaft entfesselt diese zornige Flammenbestie infernale Feuerstürme, um deine Gegner zu verschlingen."
+      },
+      {
+        "name": "Rachsüchtiger Schattenkrieger",
+        "grade": "blue",
+        "description": "Dieser rachsüchtige Schattenkrieger sucht Vergeltung und kämpft mit unbändigem Zorn, um deine Gegner zu vernichten und ihre Existenz auszulöschen."
+      },
+      {
+        "name": "Wütende Erdexplosion",
+        "grade": "blue",
+        "description": "Diese wütende Erdexplosion bringt die Erde zum Beben und schleudert Felsbrocken auf deine Gegner, um ihre Verteidigung zu durchbrechen und ihnen Schaden zuzufügen."
+      },
+      {
+        "name": "Zorniger Sturmdrache",
+        "grade": "blue",
+        "description": "Mit seiner aufbrausenden Wut erzeugt dieser zornige Sturmdrache verheerende Wirbelstürme und Blitzschläge, um deine Gegner zu verwirren und zu schwächen."
+      }
+    ],
+    "disgusted": [
+      {
+        "name": "Pharmazeutisch-Technischer Assistenten",
+        "description": "Hat festgestellt dass das Wort \"Medikamente\" immer mal wieder falschgeschrieben wird. Der Grund dafür: Medikamente sind Verscheibungspflichtig!",
+        "grade": "gold"
+      },
+      {
+        "name": "GeistBrot",
+        "description": "Der Grund, warum alle Geister in Horrorfilmen immer so schlecht lügen können, liegt wohl daran, dass sie so leicht zu durchschauen sind..",
+        "grade": "gold"
+      },
+      {
+        "name": "Ekelhase",
+        "grade": "green",
+        "description": "Ein niedlicher Hase, der sich vor ekelerregenden Dingen erschreckt und dabei lustige Grimassen schneidet."
+      },
+      {
+        "name": "Glibberschneck",
+        "grade": "green",
+        "description": "Eine fröhliche Schnecke, die durch ihren klebrigen Schleim immer wieder für ekelerfüllte Überraschungen sorgt."
+      },
+      {
+        "name": "Kratzige Käfer",
+        "grade": "green",
+        "description": "Ein lustiger Trupp von Käfern, die sich vor allem ekeln, was klebrig, schmierig oder glitschig ist."
+      },
+      {
+        "name": "Zappelkäfer",
+        "grade": "green",
+        "description": "Ein kleiner Käfer, der vor Ekel wild herumzappelt, wenn er auf unangenehme Dinge stößt."
+      },
+      {
+        "name": "Matschmonster",
+        "grade": "green",
+        "description": "Ein freundliches Monster, das vor Matsch und Schlamm zurückschreckt, aber dennoch für Spaß und Lachen sorgt."
+      },
+      {
+        "name": "Widerwurm",
+        "grade": "green",
+        "description": "Ein lustiger Wurm, der vor ekelerregenden Gerüchen und Schleim zurückschreckt, aber trotzdem für gute Laune sorgt."
+      },
+      {
+        "name": "Gruselgrinse",
+        "grade": "green",
+        "description": "Ein fröhliches Wesen mit einem gruseligen Grinsen, das zwar abschreckend wirkt, aber für jede Menge Spaß sorgt."
+      },
+      {
+        "name": "Ekelblümchen",
+        "grade": "green",
+        "description": "Eine niedliche Blume, die sich vor unangenehmen Gerüchen ekelt, aber mit ihrem fröhlichen Anblick für gute Stimmung sorgt."
+      },
+      {
+        "name": "Schreckspinne",
+        "grade": "green",
+        "description": "Eine gruselige Spinne, die vor Schleim und klebrigen Substanzen zurückschreckt, aber dennoch für aufregende Abenteuer sorgt."
+      },
+      {
+        "name": "Grimassengesicht",
+        "grade": "green",
+        "description": "Ein lustiges Wesen, das durch seine Grimassen zum Lachen bringt, auch wenn es sich vor ekelerregenden Dingen ekelt."
+      },
+      {
+        "name": "Ekelblitz",
+        "grade": "blue",
+        "description": "Ein blitzschneller Freund, der vor ekelerregenden Dingen zurückschreckt, aber dennoch für Action und Spaß sorgt."
+      },
+      {
+        "name": "Glibberfisch",
+        "grade": "blue",
+        "description": "Ein lustiger Fisch, der vor schleimigen Substanzen zurückschreckt, aber mit seinem fröhlichen Gesicht für gute Laune sorgt."
+      },
+      {
+        "name": "Zappelkäfer",
+        "grade": "blue",
+        "description": "Ein kleiner Käfer, der vor ekelerregenden Gerüchen zappelt, aber dennoch für lustige Abenteuer bereit ist."
+      },
+      {
+        "name": "Schlammstrolch",
+        "grade": "blue",
+        "description": "Ein fröhliches Wesen, das vor Matsch und Schlamm zurückschreckt, aber dennoch für spannende Unterhaltung sorgt."
+      },
+      {
+        "name": "Glibberglück",
+        "grade": "blue",
+        "description": "Ein freundliches Wesen, das vor Schleim und Klebrigkeit ekelt, aber dennoch für gute Stimmung und Glück sorgt."
+      },
+      {
+        "name": "Ekelbomber",
+        "grade": "blue",
+        "description": "Ein lustiger Pilot, der vor ekelerregenden Dingen davonfliegt, aber dennoch für aufregende Abenteuer bereit ist."
+      },
+      {
+        "name": "Grimassengesicht",
+        "grade": "blue",
+        "description": "Ein fröhliches Wesen, das mit seinen lustigen Grimassen zum Lachen bringt, auch wenn es sich vor ekelerregenden Dingen ekelt."
+      },
+      {
+        "name": "Schreckensspritzer",
+        "grade": "blue",
+        "description": "Ein frecher Spritzer, der vor unangenehmen Substanzen zurückschreckt, aber dennoch für spritzigen Spaß sorgt."
+      },
+      {
+        "name": "Ekelball",
+        "grade": "blue",
+        "description": "Ein lustiger Ball, der vor ekelerregenden Berührungen zurückspringt, aber dennoch für Spiel und Spaß sorgt."
+      },
+      {
+        "name": "Glibberlächeln",
+        "grade": "blue",
+        "description": "Ein freundliches Lächeln, das vor Schleim und Klebrigkeit zurückschreckt, aber dennoch gute Laune verbreitet."
+      },
+      {
+        "name": "Kicherhexe",
+        "grade": "violet",
+        "description": "Eine Hexe, so wunderbar und schrill, doch ekelt sie sich vor Würmern im Dill. Mit einem Lachen und grünen Haar, zaubert sie Freude in die Duellarena."
+      },
+      {
+        "name": "Gruselmonster",
+        "grade": "violet",
+        "description": "Ein Monster so furchtbar und eklig, doch in Wahrheit ist es lustig und friedlich. Mit seinen Grimassen und schaurigem Gesicht, bringt es Lachen und Freude ins Duellgeschicht."
+      },
+      {
+        "name": "Zappelkäfer",
+        "grade": "violet",
+        "description": "Ein Käfer so zappelig und wild, vor Schleim und Schmutz er sich ekelt, doch im Duell ist er stets begierig, die Gegner zu besiegen und zu verhöhnen sie wiegen."
+      },
+      {
+        "name": "Schleimflummi",
+        "grade": "violet",
+        "description": "Ein Flummi so schleimig und klebrig, doch vor ekligen Dingen er zittert, springt er herum und macht seine Tricks, bringt Lachen und Staunen, das ist sein Mix."
+      },
+      {
+        "name": "Glibbergeist",
+        "grade": "violet",
+        "description": "Ein Geist so glibberig und fein, vor Schleim und Klebrigkeit er sich ekelt, doch mit seinem Schabernack und Grinsen, wird er seine Gegner zu Ekelgewinnen zwingen."
+      },
+      {
+        "name": "Ekelwicht",
+        "grade": "violet",
+        "description": "Ein kleiner Wicht so ekelig und bunt, vor widerlichen Dingen er rennt. Doch mit seinen Streichen und lustigen Reimen, wird er die Duellanten zum Lachen bringen."
+      },
+      {
+        "name": "Grinsegraus",
+        "grade": "violet",
+        "description": "Ein Graus so gruselig und schaurig, vor Schleim und Schmutz er sich ekelt. Doch mit seinem Grinsen und unheimlichen Blick, bringt er Freude und Spaß ins Duellglück."
+      },
+      {
+        "name": "Wackelspuk",
+        "grade": "violet",
+        "description": "Ein Spuk so wackelig und schelmisch, vor ekelerregenden Dingen er zittert. Doch mit seinen Streichen und lustigen Tricks, bringt er die Gegner ins Duellfix."
+      },
+      {
+        "name": "Schreckenstrolch",
+        "grade": "violet",
+        "description": "Ein Strolch so schrecklich und wild, vor ekelerregenden Gerüchen er weicht. Doch mit seinem Schabernack und frechen Reimen, wird er seine Gegner zum Verlieren leimen."
+      },
+      {
+        "name": "Grimassengespenst",
+        "grade": "violet",
+        "description": "Ein Gespenst mit gruseligen Grimassen, vor ekelerregenden Dingen es wird verblassen. Doch mit seinem schaurigen Lachen und Geisterstreichen, wird es die Duellanten zum Verzweifeln bringen."
+      }
+
+    ],
+    "sad": [
+      {
+        "name": "Factory worker",
+        "description": "Ausgenutzt und ausgebeutet, bricht der Factory worker nun mit Hilfe des Arbeitszeitgesetzes die Ketten der 16 Stunden Schichten. Alle Arbeitgeber sind diesem Effekt wehrlos ergeben!",
+        "grade": "gold"
+      },
+      {
+        "name": "Außenstehender",
+        "description": "Ist zu spät gekommen weil er sich am Morgen ausgesperrt hat. Er war deswegen ganz aus dem Häuschen..",
+        "grade": "gold"
+      },
+      {
+        "name": "Astronomisch-Pädagogische Fachkraft",
+        "description": "ja.. dieser Beruf hat eine Daseinsberechtigung. Denn es ist z.B. für die selbe \"Handlung\" abhängig davon ob man sich auf der Erde oder im Weltraum befindet. Was auf der Erde \"Mobbing\" ist, ist für die im Weltraum eine \"Allgemeinheit\"..",
+        "grade": "gold"
+      },
+      {
+        "name": "Tränenflüsterer",
+        "description": "Ein Lebewesen, das durch seine traurige Erscheinung und sein Flüstern von Tränen berührt.",
+        "grade": "green"
+      },
+      {
+        "name": "Seelenweh",
+        "description": "Ein Wesen, das tiefe Traurigkeit und Seelenleid verkörpert.",
+        "grade": "green"
+      },
+      {
+        "name": "Kummergeist",
+        "description": "Ein geisterhaftes Wesen, das von Traurigkeit und Kummer umgeben ist.",
+        "grade": "green"
+      },
+      {
+        "name": "Herzschmerz",
+        "description": "Ein Wesen, das das Herz mit Traurigkeit und Schmerz erfüllt.",
+        "grade": "green"
+      },
+      {
+        "name": "Trübsalträger",
+        "description": "Ein Wesen, das stets von Melancholie und Niedergeschlagenheit begleitet wird.",
+        "grade": "green"
+      },
+      {
+        "name": "Wehmutsseele",
+        "description": "Eine Seele, die von Wehmut und Traurigkeit erfüllt ist.",
+        "grade": "green"
+      },
+      {
+        "name": "Trübsinnsträger",
+        "description": "Ein Wesen, das die Last des Trübsinns und der Schwermut trägt.",
+        "grade": "green"
+      },
+      {
+        "name": "Traurigkeitsschleier",
+        "description": "Ein Wesen, das in einen Schleier aus Traurigkeit und Verzweiflung gehüllt ist.",
+        "grade": "green"
+      },
+      {
+        "name": "Leidenswesen",
+        "description": "Ein Wesen, das von tiefem Leid und unendlicher Traurigkeit geprägt ist.",
+        "grade": "green"
+      },
+      {
+        "name": "Tränenbewahrer",
+        "description": "Ein Wesen, das die Tränen der Traurigkeit bewahrt und sie in sich trägt.",
+        "grade": "green"
+      },
+      {
+        "name": "Niedergeschlagenheitsgeist",
+        "description": "Ein geisterhaftes Wesen, das von tiefer Niedergeschlagenheit und Traurigkeit umgeben ist.",
+        "grade": "green"
+      },
+      {
+        "name": "Klageseele",
+        "description": "Eine Seele, die von Kummer und Klage erfüllt ist.",
+        "grade": "green"
+      },
+      {
+        "name": "Trauerumhang",
+        "description": "Ein Wesen, das in einen Umhang der Traurigkeit gehüllt ist und seine Trauer offenbart.",
+        "grade": "green"
+      },
+      {
+        "name": "Melancholied",
+        "description": "Ein Wesen, das mit seiner melancholischen Erscheinung und seinem traurigen Lied berührt.",
+        "grade": "green"
+      },
+      {
+        "name": "Tristessebot",
+        "description": "Ein Wesen, das die Tristesse und Melancholie verbreitet.",
+        "grade": "green"
+      },
+      {
+        "name": "Leidensgeist",
+        "description": "Ein geisterhaftes Wesen, das von tiefem Leid und Schmerz erfüllt ist.",
+        "grade": "green"
+      },
+      {
+        "name": "Tränenanker",
+        "description": "Ein Wesen, das als Anker für die Tränen der Traurigkeit dient.",
+        "grade": "green"
+      },
+      {
+        "name": "Trauriger Geisterwächter",
+        "grade": "blue",
+        "description": "Dieser traurige Geisterwächter hütet einsam die Ruinen des Spielfelds und erinnert an vergangene Zeiten voller Trauer und Verlust."
+      },
+      {
+        "name": "Verzweifelter Schattensänger",
+        "grade": "blue",
+        "description": "Dieser verzweifelte Schattensänger singt melancholische Lieder, die das Herz deiner Gegner schwer machen und ihre Kraft zehren."
+      },
+      {
+        "name": "Einsamer Seelengeist",
+        "grade": "blue",
+        "description": "Dieser einsame Seelengeist irrt traurig durch das Spielfeld und zieht die Energie deiner Gegner ab, während er nach Erlösung sucht."
+      },
+      {
+        "name": "Klagender Schattenrabe",
+        "grade": "blue",
+        "description": "Dieser klagende Schattenrabe fliegt traurig über das Schlachtfeld und lässt den Schatten der Trauer auf die Karten deiner Gegner fallen."
+      },
+      {
+        "name": "Melancholischer Schleiergeist",
+        "grade": "blue",
+        "description": "Dieser melancholische Schleiergeist verbirgt sich in den Nebeln der Traurigkeit und hüllt die Karten deiner Gegner in eine düstere Stimmung."
+      },
+      {
+        "name": "Trauriger Geisterdrache",
+        "grade": "blue",
+        "description": "Dieser traurige Geisterdrache weint einsame Tränen, die auf die Karten deiner Gegner tropfen und ihre Kraft schwächen."
+      },
+      {
+        "name": "Verzweifelte Schattenwächterin",
+        "grade": "blue",
+        "description": "Diese verzweifelte Schattenwächterin kämpft einsam gegen die Dunkelheit an und bündelt ihre traurige Energie, um deine Gegner zu schwächen."
+      },
+      {
+        "name": "Einsame Seelenfessel",
+        "grade": "blue",
+        "description": "Diese einsame Seelenfessel bindet die Karten deiner Gegner an ihr trauriges Schicksal und entzieht ihnen ihre Kräfte, während sie in der Trauer gefangen sind."
+      },
+      {
+        "name": "Klagende Schattenfee",
+        "grade": "blue",
+        "description": "Diese klagende Schattenfee fliegt traurig über das Spielfeld und verzaubert die Karten deiner Gegner mit ihrem melancholischen Gesang."
+      },
+      {
+        "name": "Melancholischer Geisterkrieger",
+        "grade": "blue",
+        "description": "Dieser melancholische Geisterkrieger kämpft mit schwerem Herzen und setzt seine traurige Energie ein, um deine Gegner zu schwächen und zu besiegen."
+      },
+      {
+        "name": "Trauriger Seelenfresser",
+        "grade": "blue",
+        "description": "Dieser traurige Seelenfresser nährt sich von der Trauer und Hoffnungslosigkeit deiner Gegner, um seine eigene Macht zu stärken."
+      },
+      {
+        "name": "Verzweifelte Schattenhexe",
+        "grade": "blue",
+        "description": "Diese verzweifelte Schattenhexe ruft düstere Zauber hervor, die die Karten deiner Gegner in Trauer und Verzweiflung versetzen."
+      },
+      {
+        "name": "Einsame Seelenwächterin",
+        "grade": "blue",
+        "description": "Diese einsame Seelenwächterin beschützt die Ruinen des Spielfelds mit ihrer traurigen Präsenz und lässt die Karten deiner Gegner in Trauer versinken."
+      },
+      {
+        "name": "Klagender Schattenmagier",
+        "grade": "blue",
+        "description": "Dieser klagende Schattenmagier beschwört mächtige Zaubersprüche, die das Herz deiner Gegner schwer machen und ihre Karten schwächen."
+      },
+      {
+        "name": "Melancholischer Geisterritter",
+        "grade": "blue",
+        "description": "Dieser melancholische Geisterritter kämpft mit Tränen in den Augen und nutzt seine traurige Aura, um die Karten deiner Gegner zu schwächen."
+      },
+      {
+        "name": "Traurige Seelenbindung",
+        "grade": "blue",
+        "description": "Diese traurige Seelenbindung verbindet die Schicksale der Karten deiner Gegner und schwächt sie, indem sie die Trauer in ihren Herzen verstärkt."
+      },
+      {
+        "name": "Verzweifelte Schattensirene",
+        "grade": "blue",
+        "description": "Diese verzweifelte Schattensirene lockt mit ihrem traurigen Gesang die Karten deiner Gegner in die Tiefe der Verzweiflung und Schwäche."
+      },
+      {
+        "name": "Einsame Seelenschwinge",
+        "grade": "blue",
+        "description": "Diese einsame Seelenschwinge fliegt traurig über das Schlachtfeld und streift die Karten deiner Gegner, um ihre Energie zu rauben."
+      },
+      {
+        "name": "Klagender Schattenkrieger",
+        "grade": "blue",
+        "description": "Dieser klagende Schattenkrieger kämpft mit schwerem Herzen und setzt seine traurige Energie ein, um deine Gegner zu schwächen und zu besiegen."
+      },
+      {
+        "name": "Melancholische Seelenkette",
+        "grade": "blue",
+        "description": "Diese melancholische Seelenkette fesselt die Karten deiner Gegner an die Trauer ihrer Vergangenheit und entzieht ihnen ihre Kräfte."
+      },
+      {
+        "name": "Der Traurige Geist des Verlusts",
+        "grade": "violet",
+        "description": "Sein Herz ist schwer und voller Leid, im Duell erträgt er den Schmerz weit."
+      },
+      {
+        "name": "Die Wehmütige Mondprinzessin",
+        "grade": "violet",
+        "description": "Sie weint in der Nacht, voller Trauer und Schmerz, im Duell berührt sie das zerschlagene Herz."
+      },
+      {
+        "name": "Der Verlorene Schattenkrieger",
+        "grade": "violet",
+        "description": "Er kämpft mit Tränen und düsterem Blick, im Duell spiegelt sich seine Seelenmusik."
+      },
+      {
+        "name": "Die Melancholische Feenfee",
+        "grade": "violet",
+        "description": "Sie schwebt mit Trauer und schwerem Gemüt, im Duell verzaubert sie mit ihrer traurigen Lied."
+      },
+      {
+        "name": "Der Betrübte Seelenmagier",
+        "grade": "violet",
+        "description": "Er wirkt Zauber der Melancholie, im Duell fließen Tränen wie die Flut der See."
+      },
+      {
+        "name": "Die Gebrochene Herzprinzessin",
+        "grade": "violet",
+        "description": "Sie trägt den Schmerz auf ihrem Gewand, im Duell hält sie inne und reicht dir die Hand."
+      },
+      {
+        "name": "Der Einsame Schattengeist",
+        "grade": "violet",
+        "description": "Er wandelt allein durch die Finsternis der Nacht, im Duell spiegelt sich seine verlorene Pracht."
+      },
+      {
+        "name": "Die Verzweifelte Tränenfee",
+        "grade": "violet",
+        "description": "Sie weint in Tränen der Einsamkeit, im Duell berührt sie die Herzen weit."
+      },
+      {
+        "name": "Der Niedergeschlagene Geistkrieger",
+        "grade": "violet",
+        "description": "Er kämpft mit schwerem Gemüt und gebrochenem Schwert, im Duell verströmt er eine traurige Stimmung, unerhört."
+      },
+      {
+        "name": "Die Verlorene Schattenprinzessin",
+        "grade": "violet",
+        "description": "Sie wandelt in Dunkelheit, voller Kummer und Leid, im Duell ruft sie nach Befreiung und Zeit."
+      },
+      {
+        "name": "Der Traurige Geist des Vergessens",
+        "grade": "violet",
+        "description": "Sein Geist ist gefangen in der Vergangenheit, im Duell verblasst er wie ein trauriges Licht."
+      },
+      {
+        "name": "Die Melancholische Mondnymphe",
+        "grade": "violet",
+        "description": "Sie tanzt im Schein des traurigen Mondes, im Duell fesselt sie mit ihren leisen Rondes."
+      },
+      {
+        "name": "Der Betrübte Seelensammler",
+        "grade": "violet",
+        "description": "Er sammelt verlorene Seelen im Dunkel der Nacht, im Duell hält er ihre Traurigkeit in seiner Macht."
+      },
+      {
+        "name": "Die Verzweifelte Schattenfee",
+        "grade": "violet",
+        "description": "Sie fliegt mit Tränen im düsteren Schatten, im Duell berührt sie die Seelen der Gefallenen und hatten."
+      },
+      {
+        "name": "Der Einsame Träumende Geist",
+        "grade": "violet",
+        "description": "Er schwebt in Träumen der verlorenen Zeit, im Duell versinkt er in seiner Einsamkeit."
+      },
+      {
+        "name": "Die Verlorene Seelenprinzessin",
+        "grade": "violet",
+        "description": "Sie trägt den Schmerz auf ihrer blassen Haut, im Duell sucht sie nach Trost und Rettung, unverbraucht."
+      },
+      {
+        "name": "Der Niedergeschlagene Schattengeist",
+        "grade": "violet",
+        "description": "Er wandelt mit Trauer im finsteren Licht, im Duell reflektiert er den Schmerz und das Gewicht."
+      },
+      {
+        "name": "Die Verzweifelte Tränenprinzessin",
+        "grade": "violet",
+        "description": "Sie weint mit gebrochenem Herzen und leerem Blick, im Duell berührt sie das Schicksal mit einem Klick."
+      },
+      {
+        "name": "Der Traurige Geist des Einsamen",
+        "grade": "violet",
+        "description": "Sein Geist ist gefangen in endloser Stille, im Duell erfüllt er das Feld mit seiner stillen Wille."
+      },
+      {
+        "name": "Die Melancholische Nachtelfe",
+        "grade": "violet",
+        "description": "Sie tanzt im Schatten der Traurigkeit, im Duell hüllt sie alles in düstere Vergangenheit."
+      },
+      {
+        "name": "Der Betrübte Schattenmagier",
+        "grade": "violet",
+        "description": "Er zaubert mit Tränen und verlorenem Glanz, im Duell wirkt er einen Melancholie-Tanz."
+      }
+    ],
+    "surprised": [
+      {
+        "name": "Ikea-Fachangestellter",
+        "description": "Tut sich schon den ganzen Morgen extrem schwer daran, ein Regal an der Wand zu befestigen. Er muss aber solange daran arbeiten, bis er es für angebracht hält.",
+        "grade": "gold"
+      },
+      {
+        "name": "Twitch Lurker",
+        "description": "Haha LoL, xD Roflcopter KekW POGGERS POGCHAMP Kappa, 1 in den Chat für den Prime Sub von Gamer XY, noch 200 Subs und es gibt den Live Fortnite-Dance",
+        "grade": "gold"
+      },
+      {
+        "name": "Staunenblitz",
+        "description": "Ein Wesen, das mit seinem blitzartigen Staunen und seiner Verwunderung beeindruckt.",
+        "grade": "green"
+      },
+      {
+        "name": "Wunderknall",
+        "description": "Ein Wesen, das mit einem lauten Knall der Überraschung und des Staunens erscheint.",
+        "grade": "green"
+      },
+      {
+        "name": "Verblüffungskünstler",
+        "description": "Ein Künstler des Verblüffens und der Überraschung, der die Menschen zum Staunen bringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsfunke",
+        "description": "Ein Funke der Überraschung, der die Herzen zum Leuchten bringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitswunder",
+        "description": "Ein Wunder der Erstaunlichkeit und Überraschung, das die Menschen verzaubert.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunensrausch",
+        "description": "Ein Rausch des Staunens und der Überraschung, der die Sinne überwältigt.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsmagier",
+        "description": "Ein Magier der Überraschung, der mit seinen Tricks und Illusionen fasziniert.",
+        "grade": "green"
+      },
+      {
+        "name": "Verwunderungswirbel",
+        "description": "Ein Wirbel der Verwunderung und Überraschung, der die Menschen in seinen Bann zieht.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitsfeder",
+        "description": "Eine Feder der Erstaunlichkeit und Überraschung, die die Menschen zum Schweben bringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunensmeister",
+        "description": "Ein Meister des Staunens und der Überraschung, der die Menschen in Staunen versetzt.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsflamme",
+        "description": "Eine Flamme der Überraschung, die mit ihrem unerwarteten Leuchten begeistert.",
+        "grade": "green"
+      },
+      {
+        "name": "Verblüffungsheld",
+        "description": "Ein Held der Verblüffung und Überraschung, der für Aufsehen sorgt.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitsperle",
+        "description": "Eine Perle der Erstaunlichkeit und Überraschung, die das Licht einfängt und strahlt.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunenszauber",
+        "description": "Ein Zauber des Staunens und der Überraschung, der die Menschen in eine andere Welt entführt.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungstaumel",
+        "description": "Ein Taumel der Überraschung, der die Sinne betört und die Herzen höher schlagen lässt.",
+        "grade": "green"
+      },
+      {
+        "name": "Verwunderungstornado",
+        "description": "Ein Tornado der Verwunderung und Überraschung, der alles mit sich reißt.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitswirbel",
+        "description": "Ein Wirbel der Erstaunlichkeit und Überraschung, der die Menschen in seinen Bann zieht.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunenszauberer",
+        "description": "Ein Zauberer des Staunens und der Überraschung, der mit seinen magischen Tricks begeistert.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsglanz",
+        "description": "Ein Glanz der Überraschung, der die Augen zum Leuchten bringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Verblüffungsschwarm",
+        "description": "Ein Schwarm der Verblüffung und Überraschung, der die Menschen umschwirrt.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitsflamme",
+        "description": "Eine Flamme der Erstaunlichkeit und Überraschung, die mit ihrem unerwarteten Feuer begeistert.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunensfackel",
+        "description": "Eine Fackel des Staunens und der Überraschung, die den Weg erhellt.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsstrudel",
+        "description": "Ein Strudel der Überraschung, der die Menschen mit sich reißt.",
+        "grade": "green"
+      },
+      {
+        "name": "Verwunderungsfunke",
+        "description": "Ein Funke der Verwunderung und Überraschung, der die Herzen entzündet.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitskünstler",
+        "description": "Ein Künstler der Erstaunlichkeit und Überraschung, der die Menschen in seinen Bann zieht.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunenswunder",
+        "description": "Ein Wunder des Staunens und der Überraschung, das die Menschen verzaubert.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsmagie",
+        "description": "Eine Magie der Überraschung, die mit ihren unerwarteten Effekten fasziniert.",
+        "grade": "green"
+      },
+      {
+        "name": "Verblüffungskomet",
+        "description": "Ein Komet der Verblüffung und Überraschung, der die Nacht erhellt.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitsstrahl",
+        "description": "Ein Strahl der Erstaunlichkeit und Überraschung, der die Menschen in Staunen versetzt.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunensquelle",
+        "description": "Eine Quelle des Staunens und der Überraschung, die frisches Staunen spendet.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsfantasie",
+        "description": "Eine Fantasie der Überraschung, die die Gedanken in eine andere Welt entführt.",
+        "grade": "green"
+      },
+      {
+        "name": "Verwunderungsfunke",
+        "description": "Ein Funke der Verwunderung und Überraschung, der die Sinne entflammt.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitswind",
+        "description": "Ein Wind der Erstaunlichkeit und Überraschung, der über die Landschaft streicht.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunenszauberin",
+        "description": "Eine Zauberin des Staunens und der Überraschung, die mit ihren magischen Fähigkeiten begeistert.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsglühen",
+        "description": "Ein Glühen der Überraschung, das die Herzen erwärmt.",
+        "grade": "green"
+      },
+      {
+        "name": "Verblüffungskaskade",
+        "description": "Eine Kaskade der Verblüffung und Überraschung, die die Sinne überschwemmt.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitsstern",
+        "description": "Ein Stern der Erstaunlichkeit und Überraschung, der am Himmel leuchtet.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunensmagnet",
+        "description": "Ein Magnet des Staunens und der Überraschung, der die Menschen anzieht.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsflut",
+        "description": "Eine Flut der Überraschung, die alles mit sich reißt.",
+        "grade": "green"
+      },
+      {
+        "name": "Verwunderungsglitzern",
+        "description": "Ein Glitzern der Verwunderung und Überraschung, das die Augen zum Funkeln bringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitswoge",
+        "description": "Eine Woge der Erstaunlichkeit und Überraschung, die die Menschen überwältigt.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunensflamme",
+        "description": "Eine Flamme des Staunens und der Überraschung, die mit ihrer Helligkeit beeindruckt.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsmagie",
+        "description": "Eine Magie der Überraschung, die mit ihren unerwarteten Effekten fasziniert.",
+        "grade": "green"
+      },
+      {
+        "name": "Verblüffungswunder",
+        "description": "Ein Wunder der Verblüffung und Überraschung, das die Menschen sprachlos macht.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitsnebel",
+        "description": "Ein Nebel der Erstaunlichkeit und Überraschung, der die Sinne betört.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunensfunkeln",
+        "description": "Ein Funkeln des Staunens und der Überraschung, das die Augen zum Leuchten bringt.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungswirbel",
+        "description": "Ein Wirbel der Überraschung, der die Menschen in seinen Bann zieht.",
+        "grade": "green"
+      },
+      {
+        "name": "Verwunderungswelle",
+        "description": "Eine Welle der Verwunderung und Überraschung, die die Menschen mitreißt.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitsblitz",
+        "description": "Ein Blitz der Erstaunlichkeit und Überraschung, der die Nacht erhellt.",
+        "grade": "green"
+      },
+      {
+        "name": "Staunensquelle",
+        "description": "Eine Quelle des Staunens und der Überraschung, die frisches Staunen spendet.",
+        "grade": "green"
+      },
+      {
+        "name": "Überraschungsfantasie",
+        "description": "Eine Fantasie der Überraschung, die die Gedanken in eine andere Welt entführt.",
+        "grade": "green"
+      },
+      {
+        "name": "Verwunderungskraft",
+        "description": "Eine Kraft der Verwunderung und Überraschung, die die Menschen beeindruckt.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunlichkeitswind",
+        "description": "Ein Wind der Erstaunlichkeit und Überraschung, der über die Landschaft streicht.",
+        "grade": "green"
+      },
+      {
+        "name": "Erstaunter Blitzdrache",
+        "grade": "blue",
+        "description": "Dieser erstaunte Blitzdrache schießt aus dem Nichts hervor und bringt deine Gegner mit seinen unerwarteten Attacken zum Staunen."
+      },
+      {
+        "name": "Verblüffender Schattenmagier",
+        "grade": "blue",
+        "description": "Dieser verblüffende Schattenmagier beherrscht geheimnisvolle Zaubersprüche, die deine Gegner überraschen und ihre Strategien durchkreuzen."
+      },
+      {
+        "name": "Überraschender Geisterjäger",
+        "grade": "blue",
+        "description": "Dieser überraschende Geisterjäger taucht plötzlich auf dem Spielfeld auf und fängt die Geister deiner Gegner mit seinen speziellen Fähigkeiten ein."
+      },
+      {
+        "name": "Schockierender Schattendrache",
+        "grade": "blue",
+        "description": "Dieser schockierende Schattendrache erscheint wie aus dem Nichts und versetzt deine Gegner mit seinem imposanten Auftreten in Staunen."
+      },
+      {
+        "name": "Verblüffende Nebelwandlerin",
+        "grade": "blue",
+        "description": "Diese verblüffende Nebelwandlerin erscheint überraschend aus dem Nebel und wirbelt die Karten deiner Gegner durcheinander."
+      },
+      {
+        "name": "Erstaunlicher Schattenkrieger",
+        "grade": "blue",
+        "description": "Dieser erstaunliche Schattenkrieger beherrscht unerwartete Kampftechniken und überwältigt deine Gegner mit seiner Geschwindigkeit und Stärke."
+      },
+      {
+        "name": "Überraschender Geistertäuscher",
+        "grade": "blue",
+        "description": "Dieser überraschende Geistertäuscher manipuliert geschickt die Sinne deiner Gegner und sorgt für unvorhersehbare Wendungen im Duell."
+      },
+      {
+        "name": "Schockierender Schattengolem",
+        "grade": "blue",
+        "description": "Dieser schockierende Schattengolem taucht plötzlich auf dem Spielfeld auf und sorgt mit seiner imposanten Erscheinung für Staunen und Furcht bei deinen Gegnern."
+      },
+      {
+        "name": "Verblüffender Illusionist",
+        "grade": "blue",
+        "description": "Dieser verblüffende Illusionist erzeugt beeindruckende Illusionen, die deine Gegner verwirren und ihre Pläne durchkreuzen."
+      },
+      {
+        "name": "Erstaunlicher Schattenbeschwörer",
+        "grade": "blue",
+        "description": "Dieser erstaunliche Schattenbeschwörer ruft mächtige Schattenwesen hervor, die deine Gegner mit ihren unerwarteten Fähigkeiten überraschen."
+      },
+      {
+        "name": "Überraschender Geisterkrieger",
+        "grade": "blue",
+        "description": "Dieser überraschende Geisterkrieger taucht plötzlich aus dem Schatten auf und nutzt seine überraschenden Angriffe, um deine Gegner zu überwältigen."
+      },
+      {
+        "name": "Schockierende Schattenfee",
+        "grade": "blue",
+        "description": "Diese schockierende Schattenfee verzaubert deine Gegner mit ihren unvorhersehbaren Zaubersprüchen und bringt sie aus dem Gleichgewicht."
+      },
+      {
+        "name": "Verblüffender Geisterdrache",
+        "grade": "blue",
+        "description": "Dieser verblüffende Geisterdrache erscheint plötzlich auf dem Schlachtfeld und fasziniert deine Gegner mit seinen unerwarteten Fähigkeiten."
+      },
+      {
+        "name": "Erstaunte Schattenwandlerin",
+        "grade": "blue",
+        "description": "Diese erstaunte Schattenwandlerin erscheint überraschend und wirbelt das Spielfeld durcheinander, um deine Gegner zu überraschen."
+      },
+      {
+        "name": "Überraschender Geisterzauberer",
+        "grade": "blue",
+        "description": "Dieser überraschende Geisterzauberer beherrscht geheimnisvolle Zaubertricks, die deine Gegner in Staunen versetzen und ihre Karten schwächen."
+      },
+      {
+        "name": "Schockierender Schattenbeschwörer",
+        "grade": "blue",
+        "description": "Dieser schockierende Schattenbeschwörer beschwört finstere Schattenkreaturen, die deine Gegner mit ihrer unerwarteten Stärke überraschen."
+      },
+      {
+        "name": "Verblüffende Illusionssirene",
+        "grade": "blue",
+        "description": "Diese verblüffende Illusionssirene lockt mit ihren hypnotisierenden Gesängen und überrascht deine Gegner mit unerwarteten Effekten."
+      },
+      {
+        "name": "Erstaunlicher Schattenmagier",
+        "grade": "blue",
+        "description": "Dieser erstaunliche Schattenmagier beherrscht unvorhersehbare Zauber, die deine Gegner überraschen und ihre Strategien durchkreuzen."
+      },
+      {
+        "name": "Überraschender Geisterjäger",
+        "grade": "blue",
+        "description": "Dieser überraschende Geisterjäger taucht unerwartet auf dem Spielfeld auf und nutzt seine speziellen Fähigkeiten, um deine Gegner zu überraschen und zu besiegen."
+      },
+      {
+        "name": "Schockierender Schattendrache",
+        "grade": "blue",
+        "description": "Dieser schockierende Schattendrache versetzt deine Gegner mit seinem plötzlichen Erscheinen und seinen mächtigen Attacken in Staunen und Schrecken."
+      },
+      {
+        "name": "Der Erstaunte Magier des Unbekannten",
+        "grade": "violet",
+        "description": "Mit verblüffenden Tricks und staunendem Blick, im Duell versetzt er dich in ein wahres Glück."
+      },
+      {
+        "name": "Die Verblüffte Schattennymphe",
+        "grade": "violet",
+        "description": "Sie tanzt und wirbelt mit erstaunlicher Geschwindigkeit, im Duell versetzt sie dich in grenzenlose Heiterkeit."
+      },
+      {
+        "name": "Der Überraschte Geistesmagier",
+        "grade": "violet",
+        "description": "Er wirkt Zaubersprüche mit großem Staunen, im Duell lässt er die Gegner vor Ungläubigem taunen."
+      },
+      {
+        "name": "Die Verwunderte Traumfee",
+        "grade": "violet",
+        "description": "Sie fliegt durch die Luft mit offenen Augen, im Duell lässt sie dich in wundersame Welten taugen."
+      },
+      {
+        "name": "Der Erstaunte Seelenwandler",
+        "grade": "violet",
+        "description": "Er wandert durch die Dimensionen mit großem Erstaunen, im Duell lässt er dich die Wunder des Universums schauen."
+      },
+      {
+        "name": "Die Staunende Magieprinzessin",
+        "grade": "violet",
+        "description": "Sie hält einen Zauberstab und staunt mit offenem Mund, im Duell verzaubert sie dich mit ihrem zauberhaften Schlund."
+      },
+      {
+        "name": "Der Ergriffene Schattengeist",
+        "grade": "violet",
+        "description": "Er erscheint aus dem Nichts mit erstaunlichem Blick, im Duell lässt er dich fühlen, wie die Zeit verrinnt schnell."
+      },
+      {
+        "name": "Die Überraschte Tränenfee",
+        "grade": "violet",
+        "description": "Sie weint vor Freude und staunt über das Leben, im Duell lässt sie dich in Glückseligkeit schweben."
+      },
+      {
+        "name": "Der Verwunderte Geisteskrieger",
+        "grade": "violet",
+        "description": "Er kämpft mit großem Erstaunen und Wissen, im Duell wird er die Gegner überrissen."
+      },
+      {
+        "name": "Die Erstaunte Schattenprinzessin",
+        "grade": "violet",
+        "description": "Sie wandelt in Dunkelheit mit offenen Augen, im Duell lässt sie dich die Geheimnisse des Schattens saugen."
+      },
+      {
+        "name": "Der Erstaunte Geist der Überraschung",
+        "grade": "violet",
+        "description": "Sein Geist ist erfüllt von staunender Neugier, im Duell versetzt er dich in eine Welt voller Skurrilität und Galanterie."
+      },
+      {
+        "name": "Die Verblüffte Mondnymphe",
+        "grade": "violet",
+        "description": "Sie tanzt im Licht des überraschten Mondes, im Duell versetzt sie dich in spielerische Rondes."
+      },
+      {
+        "name": "Der Verwunderte Schattenmagier",
+        "grade": "violet",
+        "description": "Er zaubert mit erstaunlicher Kunst, im Duell lässt er die Gegner in ungläubiges Staunen versunken."
+      },
+      {
+        "name": "Die Überraschte Schattenfee",
+        "grade": "violet",
+        "description": "Sie fliegt mit offenen Augen im Dunkel der Nacht, im Duell versetzt sie dich in eine Welt voller unerwarteter Pracht."
+      },
+      {
+        "name": "Der Ergriffene Träumende Geist",
+        "grade": "violet",
+        "description": "Er schwebt in Träumen mit staunendem Blick, im Duell lässt er dich in fantastische Welten entrückt."
+      },
+      {
+        "name": "Die Verwunderte Seelenprinzessin",
+        "grade": "violet",
+        "description": "Sie trägt das Staunen auf ihrer königlichen Haut, im Duell versetzt sie dich in einen freudigen Raut."
+      },
+      {
+        "name": "Der Überraschte Schattengeist",
+        "grade": "violet",
+        "description": "Er wandelt mit offenem Mund durch die Schatten der Nacht, im Duell lässt er die Gegner in Staunen und Pracht."
+      },
+      {
+        "name": "Die Verblüffte Tränenprinzessin",
+        "grade": "violet",
+        "description": "Sie weint vor Freude und erstauntem Blick, im Duell versetzt sie dich in ein unendliches Glück."
+      },
+      {
+        "name": "Der Erstaunte Geist des Unerklärlichen",
+        "grade": "violet",
+        "description": "Sein Geist ist erfüllt von Rätseln und Staunen, im Duell versetzt er dich in eine Welt voller Wunder und Brauen."
+      },
+      {
+        "name": "Die Staunende Nachtelfe",
+        "grade": "violet",
+        "description": "Sie tanzt im Schein des überraschten Mondes, im Duell versetzt sie dich in magische Sphondes."
+      },
+      {
+        "name": "Der Erstaunte Schattenprinz",
+        "grade": "violet",
+        "description": "Er wandelt in Dunkelheit mit weit aufgerissenen Augen, im Duell lässt er dich in ein Reich der Überraschungen saugen."
+      }
+    ],
+    "fearful": [
+      {
+        "name": "Spekuliereisenträger",
+        "description": "Mit den 3cm dicken Glasbausteien, getragen von seinen ergonomisch zertifizierten Nasenfahrrad, bestizt er die Fähigkeit nicht nur die Anzahl der Kekse einer Spekulatius-Packung zu erraten sondern diese zu spekulieren.",
+        "grade": "gold"
+      },
+      {
+        "name": "Polarforscher",
+        "description": "Als Forscher eines Labors in der Arktis hat er herausgefunden.. ist dann aber Aufgrund der Kälte wieder reingegangen.",
+        "grade": "gold"
+      },
+      {
+        "name": "Wolfgang",
+        "description": "Was ist die Mehrzahl von Wolf? ",
+        "grade": "gold"
+      },
+      {
+        "name": "Alman",
+        "description": "Beschwert sich aufgrund eines Pakets, dessen Inhalt er mit Spannung erwartet hat. \"Es ist eine Frechheit, dass die Batterien die ich bestellt habe, alle leer sind!\" ",
+        "grade": "gold"
+      },
+      {
+        "name": "Mahatma Curry",
+        "description": "Mit den Weisen Worten: \"Das Curry sei gesegnet!\" formte der Prophet die Gabel zum Löffel und das Curry schmeckte gut!",
+        "grade": "gold"
+      },
+      {
+        "name": "Master der Linguistik",
+        "description": "Hat sich aus Spaß ein Lexikon gekauft. Beim Durchblättern der Sportbegriffe wünschte er sich, dass der Verlag besser Korrektur gelesen hätte.. Da ist ein Fehler unter Laufen.",
+        "grade": "gold"
+      },
+      {
+        "name": "Manuel Alter",
+        "description": "Als Torwart wurde er beim Training einfach von mehreren Bällen gleichzeitig beschossen. Er wusste nicht was er davon halten soll..",
+        "grade": "gold"
+      },
+      {
+        "name": "Factory worker",
+        "description": "Ausgenutzt und ausgebeutet, bricht der Factory worker nun mit Hilfe des Arbeitszeitgesetzes die Ketten der 16 Stunden Schichten. Alle Arbeitgeber sind diesem Effekt wehrlos ergeben!",
+        "grade": "gold"
+      },
+      {
+        "name": "Außenstehender",
+        "description": "Ist zu spät gekommen weil er sich am Morgen ausgesperrt hat. Er war deswegen ganz aus dem Häuschen..",
+        "grade": "gold"
+      },
+      {
+        "name": "GeistBrot",
+        "description": "Der Grund, warum alle Geister in Horrorfilmen immer so schlecht lügen können, liegt wohl daran, dass sie so leicht zu durchschauen sind..",
+        "grade": "gold"
+      },
+      {
+        "name": "Ikea-Fachangestellter",
+        "description": "Tut sich schon den ganzen Morgen extrem schwer daran, ein Regal an der Wand zu befestigen. Er muss aber solange daran arbeiten, bis er es für angebracht hält.",
+        "grade": "gold"
+      },
+
+      {
+        "name": "Gesichtsfelsen",
+        "description": "Hart, einfach nur hart. So hart wie Stein und so stein wie Hart! Vielleicht ist im Inneren ein weiches Herz und wenn ja, dann ist diese verdammt gut geschützt durch eine felsige Hülle aus hartem Stein.",
+        "grade": "gold"
+      },
+      {
+        "name": "Vielbefahrenen Autobahnbrücke",
+        "description": "Viele fragen, was man unter vielbefahrenen Autobahnbrücke versteht und nur die wenigsten wissen, dass es eine Fangfrage ist. Denn unter einer vielbefahrenen Autobahnbrücke versteht man nichts, da es viel zu laut ist..",
+        "grade": "gold"
+      },
+      {
+        "name": "Friseur Lehrling",
+        "description": "Wenn er seine Ausbildung nicht schaffen sollte, dann kann man davon ausgehen, dass er einfach nur schlecht abgeschnitten hat..",
+        "grade": "gold"
+      },
+      {
+        "name": "Pharmazeutisch-Technischer Assistenten",
+        "description": "Hat festgestellt dass das Wort \"Medikamente\" immer mal wieder falschgeschrieben wird. Der Grund dafür: Medikamente sind Verscheibungspflichtig!",
+        "grade": "gold"
+      },
+      {
+        "name": "Astronomisch-Pädagogische Fachkraft",
+        "description": "ja.. dieser Beruf hat eine Daseinsberechtigung. Denn es ist z.B. für die selbe \"Handlung\" abhängig davon ob man sich auf der Erde oder im Weltraum befindet. Was auf der Erde \"Mobbing\" ist, ist für die im Weltraum eine \"Allgemeinheit\"..",
+        "grade": "gold"
+      },
+      {
+        "name": "Der SuperReinhard",
+        "description": "Bist du der Auserwählte der das Spiel schafft? (superreinhard.schneider-edu.it)",
+        "grade": "gold"
+      },
+      {
+        "name": "Twitch Lurker",
+        "description": "Omg Haha LoL, xD Roflcopter KekW POGGERS POGCHAMP Kappa, 1 in den Chat für den Prime Sub von Gamer XY, noch 200 Subs und es gibt den Live Fortnite-Dance",
+        "grade": "gold"
+      }
+    ]
+  }
+
+
+
+}

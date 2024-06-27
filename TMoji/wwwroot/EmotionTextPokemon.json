@@ -1,0 +1,798 @@
+{
+  "Emotions": {
+    "happy": [
+      {
+        "name": "Lahmus",
+        "description": "Fröhliches Glitzern - Lahmus strahlt ein fröhliches Licht aus, das den Gegner blendet und eventuell verwirrt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Lahmus",
+        "description": "Glücksschleife - Lahmus schlingt eine magische Schleife um den Gegner, die dessen Initiative senkt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Lahmus",
+        "description": "Kicherwelle - Lahmus erzeugt eine Welle aus fröhlichem Gelächter, die beim Gegner Schaden verursacht und dessen Verteidigung senkt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Lahmus",
+        "description": "Heiterkeitsblase - Lahmus pustet eine riesige Blase, die beim Platzen eine Freude-Explosion verursacht und den Gegner zurückschrecken lässt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Lahmus",
+        "description": "Sonnenscheinstrahl - Ein intensiver Strahl aus purem Glück, der den Gegner trifft und eventuell seine Genauigkeit senkt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Lahmus",
+        "description": "Jubelrufe - Lahmus gibt fröhliche Rufe von sich, die seine eigene Angriffskraft erhöhen.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Lahmus",
+        "description": "Happy-Slam - Lahmus springt fröhlich auf den Gegner zu und verursacht hohen Schaden.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Lahmus",
+        "description": "Glücksbringer - Ein Angriff, bei dem Lahmus einen Glücksbringer auf den Gegner wirft, der den Gegner verwirrt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Lahmus",
+        "description": "Freudesprung - Lahmus macht einen glücklichen Sprung in die Luft und trifft den Gegner aus großer Höhe.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Lahmus",
+        "description": "Lustiges Antlitz - Lahmus zieht ein extrem lustiges Gesicht, das den Gegner zum Lachen bringt und dessen Angriff senkt.",
+        "grade": "1"
+      },
+
+
+      {
+        "name": "Pummeluff",
+        "description": "Fröhliche Melodie - Pummeluff singt eine fröhliche Melodie, die den Gegner einschläfert und dabei seine Verteidigung senkt.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Pummeluff",
+        "description": "Kicherblasen - Pummeluff pustet bunte Blasen, die beim Platzen ein Kichern verursachen und den Gegner verwirren.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Pummeluff",
+        "description": "Glücksnote - Ein musikalischer Angriff, bei dem Pummeluff Noten aus Glück und Freude auf den Gegner schießt, was dessen Initiative senkt.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Pummeluff",
+        "description": "Lachschwall - Pummeluff lacht laut und ansteckend, wodurch der Gegner Schaden nimmt und seine Angriffskraft verringert wird.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Pummeluff",
+        "description": "Freudensprung - Ein glücklicher Sprung auf den Gegner, der großen Schaden verursacht und Pummeluff's eigene Initiative erhöht.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Pummeluff",
+        "description": "Jubelruf - Pummeluff gibt fröhliche Jubelrufe von sich, die seine eigene Spezial-Verteidigung steigern.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Pummeluff",
+        "description": "Heiterkeitsstrahl - Ein Strahl aus purer Freude, der den Gegner trifft und eventuell seine Genauigkeit senkt.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Pummeluff",
+        "description": "Glücksballon - Pummeluff erschafft einen Ballon aus Glück, der beim Platzen eine Freudensalve auslöst und den Gegner zurückschrecken lässt.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Pummeluff",
+        "description": "Fröhliche Umarmung - Pummeluff umarmt den Gegner freudig, was dessen Angriffskraft und Verteidigung verringert.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Pummeluff",
+        "description": "Lustiger Wirbel - Pummeluff wirbelt fröhlich um den Gegner herum, was Verwirrung stiftet und die Geschwindigkeit des Gegners senkt.",
+        "grade": "2"
+      }
+
+    ],
+    "neutral": [
+      {
+        "name": "Hornlio",
+        "description": "Gähnende Fäden - Hornliu spinnt Fäden, während es gähnt, die den Gegner einhüllen und seine Geschwindigkeit senken.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Hornlio",
+        "description": "Schleppender Biss - Ein träger Biss, der dem Gegner physischen Schaden zufügt und eventuell seine Initiative senkt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Hornlio",
+        "description": "Lethargischer Stachel - Hornliu sticht langsam und gelangweilt zu, verursacht aber dennoch Schaden.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Hornlio",
+        "description": "Unmotivierter Schuss - Ein lustloser Schleimschuss, der den Gegner trifft und seine Genauigkeit senken kann.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Hornlio",
+        "description": "Träge Giftspitze - Ein langsam ausgeführter, giftiger Stachelstoß, der den Gegner vergiftet.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Hornlio",
+        "description": "Müder Antennen-Tick - Ein gelangweilter Antennenstupser, der minimalen Schaden verursacht, aber den Gegner verwirren kann.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Hornlio",
+        "description": "Desinteressierter Krabbler - Hornliu bewegt sich langsam auf den Gegner zu und verursacht dabei physischen Schaden.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Hornlio",
+        "description": "Schwerfälliger Kokonwurf - Ein träger Wurf von Kokonteilen, der den Gegner trifft und seine Verteidigung senken kann.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Hornlio",
+        "description": "Lustloser Wirbel - Hornliu dreht sich langsam um den Gegner, was Verwirrung stiftet und die Geschwindigkeit des Gegners senkt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Hornlio",
+        "description": "Gelangweilte Abwehr - Hornliu nimmt eine gelangweilte Haltung ein, was seine eigene Verteidigung für die nächste Runde erhöht.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Digda",
+        "description": "Müder Graben - Digda gräbt sich langsam unter den Gegner, verursacht aber dennoch Schaden.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Digda",
+        "description": "Lethargische Schaufel - Ein langsamer Schlag mit einer Erdschaufel, der physischen Schaden zufügt.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Digda",
+        "description": "Schläfriger Sandschwall - Digda wirbelt träge Sand auf, was die Genauigkeit des Gegners senken kann.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Digda",
+        "description": "Unmotivierter Erdhieb - Ein lustloser Schlag auf den Boden, der den Gegner trifft und seine Initiative senkt.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Digda",
+        "description": "Träge Rutsche - Digda gleitet gelangweilt durch den Boden und verursacht beim Auftauchen Schaden.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Digda",
+        "description": "Desinteressierte Fallgrube - Digda gräbt eine flache Grube, in die der Gegner stolpert und sich selbst verletzt.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Digda",
+        "description": "Lustloser Tunnel - Ein langsamer Tunnelangriff, bei dem Digda den Gegner untergräbt und seine Verteidigung senkt.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Digda",
+        "description": "Müder Matschwurf - Digda schleudert träge etwas Matsch auf den Gegner, was dessen Genauigkeit verringert.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Digda",
+        "description": "Gelangweilter Kieselwurf - Ein lustloser Wurf kleiner Steine, der den Gegner trifft und dessen Geschwindigkeit senkt.",
+        "grade": "2"
+      },
+
+      {
+        "name": "Digda",
+        "description": "Schwerfällige Erdbewegung - Digda bewegt die Erde um sich herum langsam, was seine eigene Verteidigung für die nächste Runde erhöht.",
+        "grade": "2"
+      }
+
+    ],
+    "angry": [
+      {
+        "name": "Rasaff",
+        "description": "Wutsturm - Rasaff dreht sich wild und trifft den Gegner mit einer Serie wütender Schläge.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Rasaff",
+        "description": "Zornesbrüller - Ein lauter Brüller, der den Gegner einschüchtert und dessen Angriffskraft senkt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Rasaff",
+        "description": "Rasender Hieb - Ein wütender Schlag, der doppelten Schaden verursacht, wenn Rasaff zuvor getroffen wurde.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Rasaff",
+        "description": "Furienfaust - Rasaff schlägt den Gegner mehrmals mit wütenden Fäusten, jeder Treffer wird stärker.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Rasaff",
+        "description": "Grollendes Stampfen - Rasaff stampft wütend auf den Boden, verursacht Schaden und senkt die Initiative des Gegners.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Rasaff",
+        "description": "Wütender Kopfstoß - Ein heftiger Kopfstoß, der hohen Schaden verursacht, aber auch Rasaff selbst leicht verletzt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Rasaff",
+        "description": "Wutrausch - Rasaff gerät in einen Rausch, erhöht seine Angriffskraft und Geschwindigkeit, aber senkt seine Verteidigung.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Rasaff",
+        "description": "Zorniger Wirbel - Ein wilder Wirbelangriff, der den Gegner trifft und dessen Verteidigung senkt.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Rasaff",
+        "description": "Rasender Aufprall - Rasaff springt wütend auf den Gegner zu, verursacht hohen Schaden und erhöht seine eigene Initiative.",
+        "grade": "1"
+      },
+
+      {
+        "name": "Rasaff",
+        "description": "Tobsuchtsanfall - Ein extrem wütender Angriff, der maximalen Schaden verursacht, aber Rasaff nach dem Angriff erschöpft zurücklässt.",
+        "grade": "1"
+      },
+
+
+
+      {
+        "name": "Kleinstein",
+        "description": "Zornige Felsfaust - Kleinstein schlägt den Gegner mit seiner harten Faust, verursacht großen Schaden.",
+        "grade": "2"
+      },
+      {
+        "name": "Kleinstein",
+        "description": "Wütender Rollout - Ein rasender Rollout-Angriff, bei dem Kleinstein den Gegner mehrmals trifft.",
+        "grade": "2"
+      },
+      {
+        "name": "Kleinstein",
+        "description": "Erdbeben des Zorns - Kleinstein erzeugt ein wütendes Erdbeben, das alle Gegner auf dem Feld trifft.",
+        "grade": "2"
+      },
+      {
+        "name": "Kleinstein",
+        "description": "Furioser Felswurf - Kleinstein wirft wütend Felsen auf den Gegner, verursacht hohen Schaden.",
+        "grade": "2"
+      },
+      {
+        "name": "Kleinstein",
+        "description": "Grollende Bodenschockwelle - Eine wütende Schockwelle, die den Boden erzittern lässt und die Initiative des Gegners senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Kleinstein",
+        "description": "Wütender Groll - Kleinstein lädt sich mit wütender Energie auf, erhöht seinen Angriff und seine Verteidigung.",
+        "grade": "2"
+      },
+      {
+        "name": "Kleinstein",
+        "description": "Zorniger Kopfstoß - Ein wütender Kopfstoß, der den Gegner trifft und ihn eventuell zurückschrecken lässt.",
+        "grade": "2"
+      },
+      {
+        "name": "Kleinstein",
+        "description": "Tobende Steinschleuder - Kleinstein schleudert eine Serie wütender Steine auf den Gegner, was mehrmals Schaden verursacht.",
+        "grade": "2"
+      },
+      {
+        "name": "Kleinstein",
+        "description": "Rasender Bodenschlag - Kleinstein schlägt wütend auf den Boden, verursacht Schaden und senkt die Genauigkeit des Gegners.",
+        "grade": "2"
+      },
+      {
+        "name": "Kleinstein",
+        "description": "Wutexplosion - Eine explosive Attacke, die hohen Schaden verursacht, aber Kleinstein nach dem Angriff erschöpft zurücklässt.",
+        "grade": "2"
+      }
+
+    ],
+    "disgusted": [
+
+      {
+        "name": "Bluzuk",
+        "description": "Ekelhafter Giftstachel - Bluzuk sticht den Gegner mit einem giftigen Stachel, verursacht Schaden und kann vergiften.",
+        "grade": "1"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Widerlicher Säureschwall - Bluzuk spuckt einen widerlichen Schwall aus Säure auf den Gegner, senkt dessen Verteidigung.",
+        "grade": "1"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Giftiger Widerhaken - Ein widerlicher Angriff, bei dem Bluzuk seine giftigen Widerhaken auf den Gegner schleudert.",
+        "grade": "1"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Ekelerregende Verwirrung - Bluzuk stiftet Verwirrung beim Gegner, indem es ihn mit einem ekelhaften Geruch einhüllt.",
+        "grade": "1"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Übelriechende Dämpfe - Bluzuk stößt übelriechende Dämpfe aus, die den Gegner schwächen und dessen Initiative senken.",
+        "grade": "1"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Ekelhaftes Schutzschild - Bluzuk erzeugt ein Schutzschild aus einem widerlichen Sekret, das Schaden abwehrt.",
+        "grade": "1"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Widerwärtige Schlammbombe - Bluzuk schleudert eine widerwärtige Schlammbombe auf den Gegner, verursacht Schaden und kann dessen Genauigkeit senken.",
+        "grade": "1"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Abstoßender Panzer - Ein widerlicher Panzerangriff, bei dem Bluzuk seinen Panzer gegen den Gegner schleudert.",
+        "grade": "1"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Galle-Ekstase - Bluzuk lässt eine ekelerregende Galle-Ekstase los, die den Gegner einschüchtert und dessen Angriff senkt.",
+        "grade": "1"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Widerwärtiges Kneifen - Ein widerliches Kneifen, das beim Gegner Übelkeit auslöst und seine Verteidigung verringert.",
+        "grade": "1"
+      },
+
+
+
+      {
+        "name": "Bluzuk",
+        "description": "Ekelhafter Giftstachel - Bluzuk sticht den Gegner mit einem giftigen Stachel, verursacht Schaden und kann vergiften.",
+        "grade": "2"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Widerlicher Säureschwall - Bluzuk spuckt einen widerlichen Schwall aus Säure auf den Gegner, senkt dessen Verteidigung.",
+        "grade": "2"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Giftiger Widerhaken - Ein widerlicher Angriff, bei dem Bluzuk seine giftigen Widerhaken auf den Gegner schleudert.",
+        "grade": "2"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Ekelerregende Verwirrung - Bluzuk stiftet Verwirrung beim Gegner, indem es ihn mit einem ekelhaften Geruch einhüllt.",
+        "grade": "2"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Übelriechende Dämpfe - Bluzuk stößt übelriechende Dämpfe aus, die den Gegner schwächen und dessen Initiative senken.",
+        "grade": "2"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Ekelhaftes Schutzschild - Bluzuk erzeugt ein Schutzschild aus einem widerlichen Sekret, das Schaden abwehrt.",
+        "grade": "2"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Widerwärtige Schlammbombe - Bluzuk schleudert eine widerwärtige Schlammbombe auf den Gegner, verursacht Schaden und kann dessen Genauigkeit senken.",
+        "grade": "2"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Abstoßender Panzer - Ein widerlicher Panzerangriff, bei dem Bluzuk seinen Panzer gegen den Gegner schleudert.",
+        "grade": "2"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Galle-Ekstase - Bluzuk lässt eine ekelerregende Galle-Ekstase los, die den Gegner einschüchtert und dessen Angriff senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Bluzuk",
+        "description": "Widerwärtiges Kneifen - Ein widerliches Kneifen, das beim Gegner Übelkeit auslöst und seine Verteidigung verringert.",
+        "grade": "2"
+      }
+
+
+
+    ],
+    "sad": [
+      {
+        "name": "Knilz",
+        "description": "Tränenerstickung - Knilz umhüllt den Gegner mit Tränen, die ihn schwächen und seine Initiative senken.",
+        "grade": "1"
+      },
+      {
+        "name": "Knilz",
+        "description": "Verwelkender Schlag - Ein trauriger Schlag, der den Gegner berührt und seine Verteidigung senkt.",
+        "grade": "1"
+      },
+      {
+        "name": "Knilz",
+        "description": "Trauriger Sporenwurf - Knilz wirft traurige Sporen auf den Gegner, was dessen Angriffskraft verringern kann.",
+        "grade": "1"
+      },
+      {
+        "name": "Knilz",
+        "description": "Weinende Ranken - Knilz nutzt seine Ranken, um den Gegner traurig zu machen und seinen Angriff zu schwächen.",
+        "grade": "1"
+      },
+      {
+        "name": "Knilz",
+        "description": "Trauriger Wurzelgriff - Ein trauriger Griff mit den Wurzeln, der den Gegner festhält und Schaden verursacht.",
+        "grade": "1"
+      },
+      {
+        "name": "Knilz",
+        "description": "Depressive Pilzsporen - Knilz verstreut depressive Pilzsporen, die den Gegner verlangsamen und seine Genauigkeit senken.",
+        "grade": "1"
+      },
+      {
+        "name": "Knilz",
+        "description": "Schluchzender Schlagger - Knilz schlägt mit trauriger Kraft zu, was den Gegner verwirren kann.",
+        "grade": "1"
+      },
+      {
+        "name": "Knilz",
+        "description": "Trauriger Wurzelfang - Knilz fängt den Gegner mit traurigen Wurzeln ein, was seine Verteidigung schwächt.",
+        "grade": "1"
+      },
+      {
+        "name": "Knilz",
+        "description": "Verweinte Pflanzensäfte - Knilz wirft verweinte Pflanzensäfte auf den Gegner, die seine Angriffskraft verringern.",
+        "grade": "1"
+      },
+      {
+        "name": "Knilz",
+        "description": "Niedergeschlagener Sporenregen - Ein trauriger Regen aus Sporen, der den Gegner schwächt und seine Initiative senkt.",
+        "grade": "1"
+      },
+
+
+
+
+      {
+        "name": "Memmeon",
+        "description": "Tränenschwall - Memmeon lässt einen traurigen Schwall Wasser auf den Gegner los, der dessen Verteidigung senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Memmeon",
+        "description": "Klagender Kaskadenangriff - Ein trauriger Wasserangriff, der den Gegner mehrmals trifft und ihn verlangsamen kann.",
+        "grade": "2"
+      },
+      {
+        "name": "Memmeon",
+        "description": "Trauriger Tiefseetrubel - Memmeon verursacht eine traurige Turbulenz unter Wasser, die den Gegner schädigt.",
+        "grade": "2"
+      },
+      {
+        "name": "Memmeon",
+        "description": "Weinender Wasserschwall - Ein trauriger, aber kraftvoller Wasserstrahl, der den Gegner trifft und seine Initiative senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Memmeon",
+        "description": "Leidender Seetanggriff - Memmeon umwickelt den Gegner mit traurigem Seetang, was ihn verlangsamt.",
+        "grade": "2"
+      },
+      {
+        "name": "Memmeon",
+        "description": "Depressive Wasserkaskade - Memmeon erzeugt eine traurige Kaskade aus Wasser, die den Gegner einschüchtert.",
+        "grade": "2"
+      },
+      {
+        "name": "Memmeon",
+        "description": "Schluchzender Tiefschlag - Ein trauriger Schlag unter Wasser, der den Gegner stark trifft und seine Verteidigung senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Memmeon",
+        "description": "Trauriger Unterwasserschwall - Memmeon schleudert einen traurigen Schwall Wasser auf den Gegner, verursacht Schaden und kann seine Genauigkeit senken.",
+        "grade": "2"
+      },
+      {
+        "name": "Memmeon",
+        "description": "Weinender Wasserschleier - Memmeon umhüllt den Gegner mit einem traurigen Wasserschleier, der seine Angriffskraft verringert.",
+        "grade": "2"
+      },
+      {
+        "name": "Memmeon",
+        "description": "Niedergeschlagener Gezeitenstoß - Ein trauriger Stoß aus Gezeitenenergie, der den Gegner schwächt und seine Initiative senkt.",
+        "grade": "2"
+      }
+
+    ],
+    "surprised": [
+      {
+        "name": "Wooper",
+        "description": "Überraschender Aquastrom - Wooper erzeugt einen plötzlichen Aquastrom, der den Gegner überrascht und Schaden verursacht.",
+        "grade": "1"
+      },
+      {
+        "name": "Wooper",
+        "description": "Verblüffender Erdstoß - Ein plötzlicher Erdstoß aus dem Nichts, der den Gegner überrascht und seine Verteidigung senkt.",
+        "grade": "1"
+      },
+      {
+        "name": "Wooper",
+        "description": "Spritzige Verwirrung - Wooper spritzt den Gegner überraschend mit Wasser voll, was Verwirrung stiften kann.",
+        "grade": "1"
+      },
+      {
+        "name": "Wooper",
+        "description": "Unerwarteter Schlammball - Ein überraschender Schlammball, der den Gegner trifft und seine Genauigkeit senkt.",
+        "grade": "1"
+      },
+      {
+        "name": "Wooper",
+        "description": "Schockierendes Aquawirbel - Wooper erzeugt einen schockierenden Aquawirbel, der den Gegner überrascht und Schaden verursacht.",
+        "grade": "1"
+      },
+      {
+        "name": "Wooper",
+        "description": "Blitzartige Erdbebenwelle - Eine blitzartige Erdbebenwelle, die den Gegner überrascht und dessen Angriffskraft verringert.",
+        "grade": "1"
+      },
+      {
+        "name": "Wooper",
+        "description": "Verwunderter Wasserschwall - Wooper stößt überraschend einen großen Wasserschwall aus, der den Gegner trifft und ihn schwächt.",
+        "grade": "1"
+      },
+      {
+        "name": "Wooper",
+        "description": "Baffierender Schlammschuss - Ein baffierender Schlammschuss, der den Gegner überrascht und seine Initiative senkt.",
+        "grade": "1"
+      },
+      {
+        "name": "Wooper",
+        "description": "Knallige Aquabombe - Wooper schleudert überraschend eine knallige Aquabombe auf den Gegner, die Schaden verursacht und seine Verteidigung schwächt.",
+        "grade": "1"
+      },
+      {
+        "name": "Wooper",
+        "description": "Erstaunlicher Schlammhagel - Ein erstaunlicher Schlammhagel, der den Gegner überrascht und Schaden verursacht.",
+        "grade": "1"
+      },
+
+
+
+
+      {
+        "name": "Pikachu",
+        "description": "Donnerschock - Pikachu entlädt einen überraschenden Donnerschock auf den Gegner, der Schaden verursacht und dessen Initiative senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Pikachu",
+        "description": "Blitzknall - Ein plötzlicher Blitzknall, der den Gegner überrascht und seine Verteidigung senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Pikachu",
+        "description": "Elektro-Überraschung - Pikachu überrascht den Gegner mit einem schnellen Elektro-Angriff, der Schaden verursacht.",
+        "grade": "2"
+      },
+      {
+        "name": "Pikachu",
+        "description": "Funkenregen - Ein überraschender Funkenregen, der den Gegner trifft und dessen Angriffskraft verringert.",
+        "grade": "2"
+      },
+      {
+        "name": "Pikachu",
+        "description": "Blitzwelle - Pikachu sendet eine überraschende Blitzwelle aus, die den Gegner schwächt.",
+        "grade": "2"
+      },
+      {
+        "name": "Pikachu",
+        "description": "Thunderstruck - Ein überraschender Thunderstruck, der den Gegner stark trifft und seine Initiative senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Pikachu",
+        "description": "Stromstoß - Pikachu feuert einen unerwarteten Stromstoß auf den Gegner ab, der Schaden verursacht und dessen Genauigkeit senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Pikachu",
+        "description": "Überraschungselekto - Pikachu nutzt eine unerwartete elektrische Ladung, die den Gegner überrascht und seine Verteidigung schwächt.",
+        "grade": "2"
+      },
+      {
+        "name": "Pikachu",
+        "description": "Elektrisierender Blitzschlag - Ein blitzschneller und elektrisierender Blitzschlag, der den Gegner überrascht und Schaden verursacht.",
+        "grade": "2"
+      },
+      {
+        "name": "Pikachu",
+        "description": "Schockierendes Donnergrollen - Pikachu erzeugt ein schockierendes Donnergrollen, das den Gegner überrascht und Schaden verursacht.",
+        "grade": "2"
+      }
+
+
+    ],
+    "fearful": [
+      {
+        "name": "Karpador",
+        "description": "Panischer Sprung - Karpador springt ängstlich hoch, um sich vor dem Gegner zu retten.",
+        "grade": "1"
+      },
+      {
+        "name": "Karpador",
+        "description": "Ängstlicher Aquastrahl - Ein ängstlicher Wasserstrahl, der den Gegner trifft und dessen Angriffskraft verringert.",
+        "grade": "1"
+      },
+      {
+        "name": "Karpador",
+        "description": "Schreckhafter Seilschlag - Karpador schlägt ängstlich mit seinem Schwanz auf den Gegner ein.",
+        "grade": "1"
+      },
+      {
+        "name": "Karpador",
+        "description": "Furchtsamer Flossenfächer - Ein furchtsamer Fächerangriff, der den Gegner einschüchtern kann.",
+        "grade": "1"
+      },
+      {
+        "name": "Karpador",
+        "description": "Verängstigter Tackle - Karpador führt einen verängstigten Tackle-Angriff aus.",
+        "grade": "1"
+      },
+      {
+        "name": "Karpador",
+        "description": "Zitternde Welle - Karpador sendet eine zitternde Wasserwelle auf den Gegner zu, die dessen Initiative senkt.",
+        "grade": "1"
+      },
+      {
+        "name": "Karpador",
+        "description": "Ängstliche Spritzattacke - Eine ängstliche Spritzattacke, die den Gegner trifft und seine Verteidigung senkt.",
+        "grade": "1"
+      },
+      {
+        "name": "Karpador",
+        "description": "Scheuer Schuppenschlag - Karpador führt einen scheuen Schlag mit seinen Schuppen aus, der den Gegner irritieren kann.",
+        "grade": "1"
+      },
+      {
+        "name": "Karpador",
+        "description": "Flüchtige Wasserspritzer - Karpador versprüht flüchtige Wasserspritzer, die den Gegner schwächen.",
+        "grade": "1"
+      },
+      {
+        "name": "Karpador",
+        "description": "Zaghafter Aqua-Ausbruch - Ein zaghafter Ausbruch von Wasserenergie, der den Gegner erschrecken kann.",
+        "grade": "1"
+      },
+
+
+
+
+      {
+        "name": "Karpador",
+        "description": "Ängstlicher Wasserspritzer - Karpador versprüht ängstlich Wasser auf den Gegner, was dessen Initiative senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Karpador",
+        "description": "Panische Flucht - Karpador flieht panisch vor dem Gegner, erhöht aber seine Ausweichchance.",
+        "grade": "2"
+      },
+      {
+        "name": "Karpador",
+        "description": "Schreckhafter Aquastrahl - Ein ängstlicher Aquastrahl, der den Gegner trifft und seine Verteidigung senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Karpador",
+        "description": "Verängstigter Angriff - Karpador führt einen verängstigten Angriff aus, der den Gegner verwirren kann.",
+        "grade": "2"
+      },
+      {
+        "name": "Karpador",
+        "description": "Zitternder Tackle - Ein zitternder Tackle-Angriff, der den Gegner überrascht und seine Angriffskraft verringert.",
+        "grade": "2"
+      },
+      {
+        "name": "Karpador",
+        "description": "Furchtsamer Sprung - Karpador springt ängstlich vor dem Gegner zurück, um sich zu verteidigen.",
+        "grade": "2"
+      },
+      {
+        "name": "Karpador",
+        "description": "Panischer Aquastrom - Karpador erzeugt einen panischen Aquastrom, der den Gegner trifft und Schaden verursacht.",
+        "grade": "2"
+      },
+      {
+        "name": "Karpador",
+        "description": "Ängstliche Wasserscheu - Karpador zeigt eine ängstliche Reaktion auf Wasserelemente, die den Gegner einschüchtern kann.",
+        "grade": "2"
+      },
+      {
+        "name": "Karpador",
+        "description": "Flüchtige Aquabombe - Karpador schleudert eine flüchtige Aquabombe auf den Gegner, die dessen Genauigkeit senkt.",
+        "grade": "2"
+      },
+      {
+        "name": "Karpador",
+        "description": "Zaghafter Angriffsschwall - Ein zaghafter Schwall von Angriffen, der den Gegner erschreckt und seine Verteidigung schwächt.",
+        "grade": "2"
+      }
+
+    ]
+  }
+
+
+
+}
